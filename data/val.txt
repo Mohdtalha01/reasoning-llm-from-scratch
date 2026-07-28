@@ -1,0 +1,2000 @@
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: Eve is older than Frank. Frank is older than Dave. Who is oldest? A: Eve
+Q: Frank is older than Bob. Bob is older than Dave. Who is oldest? A: Frank
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: 6 * 12 = ? A: 72
+Q: 90 + 91 = ? A: 181
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: 81 + 3 = ? A: 84
+Q: Count from 1 to 11. A: 1 2 3 4 5 6 7 8 9 10 11
+Q: Count from 1 to 2. A: 1 2
+Q: Which is bigger, 21 or 97? A: 97
+Q: Count from 1 to 11. A: 1 2 3 4 5 6 7 8 9 10 11
+Q: Count from 1 to 11. A: 1 2 3 4 5 6 7 8 9 10 11
+Q: 20 + 59 = ? A: 79
+Q: Count from 1 to 18. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Q: Dave is older than Grace. Grace is older than Alice. Who is oldest? A: Dave
+Q: Which is bigger, 16 or 22? A: 22
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: Count from 1 to 1. A: 1
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: 0 * 6 = ? A: 0
+Q: Which is bigger, 65 or 24? A: 65
+Q: 38 + 71 = ? A: 109
+Q: Heidi is older than Grace. Grace is older than Carol. Who is oldest? A: Heidi
+Q: 52 + 98 = ? A: 150
+Q: Count from 1 to 3. A: 1 2 3
+Q: 79 - 85 = ? A: -6
+Q: Which is bigger, 58 or 37? A: 58
+Q: 12 * 0 = ? A: 0
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: 91 - 76 = ? A: 15
+Q: Which is bigger, 39 or 28? A: 39
+Q: Grace is older than Alice. Alice is older than Frank. Who is oldest? A: Grace
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: 45 - 0 = ? A: 45
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: 67 + 49 = ? A: 116
+Q: Which is bigger, 48 or 63? A: 63
+Q: Bob is older than Grace. Grace is older than Alice. Who is oldest? A: Bob
+Q: Which is bigger, 64 or 20? A: 64
+Q: Bob is older than Grace. Grace is older than Dave. Who is oldest? A: Bob
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: Eve is older than Grace. Grace is older than Bob. Who is oldest? A: Eve
+Q: 10 + 71 = ? A: 81
+Q: Eve is older than Frank. Frank is older than Carol. Who is oldest? A: Eve
+Q: Heidi is older than Bob. Bob is older than Dave. Who is oldest? A: Heidi
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: Which is bigger, 16 or 21? A: 21
+Q: Alice is older than Frank. Frank is older than Grace. Who is oldest? A: Alice
+Q: 37 - 73 = ? A: -36
+Q: Which is bigger, 61 or 38? A: 61
+Q: Eve is older than Heidi. Heidi is older than Grace. Who is oldest? A: Eve
+Q: 33 - 75 = ? A: -42
+Q: Heidi is older than Eve. Eve is older than Bob. Who is oldest? A: Heidi
+Q: Which is bigger, 19 or 68? A: 68
+Q: 93 - 43 = ? A: 50
+Q: Heidi is older than Alice. Alice is older than Bob. Who is oldest? A: Heidi
+Q: Which is bigger, 13 or 39? A: 39
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: Which is bigger, 79 or 84? A: 84
+Q: 9 * 9 = ? A: 81
+Q: Which is bigger, 81 or 56? A: 81
+Q: Alice is older than Frank. Frank is older than Eve. Who is oldest? A: Alice
+Q: Which is bigger, 88 or 4? A: 88
+Q: Heidi is older than Grace. Grace is older than Alice. Who is oldest? A: Heidi
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: Which is bigger, 43 or 99? A: 99
+Q: Which is bigger, 91 or 93? A: 93
+Q: Alice is older than Dave. Dave is older than Heidi. Who is oldest? A: Alice
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: Bob is older than Eve. Eve is older than Grace. Who is oldest? A: Bob
+Q: 64 + 71 = ? A: 135
+Q: Count from 1 to 12. A: 1 2 3 4 5 6 7 8 9 10 11 12
+Q: Eve is older than Heidi. Heidi is older than Carol. Who is oldest? A: Eve
+Q: Grace is older than Carol. Carol is older than Bob. Who is oldest? A: Grace
+Q: Bob is older than Grace. Grace is older than Eve. Who is oldest? A: Bob
+Q: 15 - 72 = ? A: -57
+Q: Which is bigger, 40 or 97? A: 97
+Q: Count from 1 to 15. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Q: Count from 1 to 3. A: 1 2 3
+Q: 9 * 3 = ? A: 27
+Q: 72 - 70 = ? A: 2
+Q: Alice is older than Carol. Carol is older than Frank. Who is oldest? A: Alice
+Q: 34 + 17 = ? A: 51
+Q: 5 + 84 = ? A: 89
+Q: Which is bigger, 60 or 6? A: 60
+Q: 73 + 56 = ? A: 129
+Q: Which is bigger, 44 or 86? A: 86
+Q: Eve is older than Frank. Frank is older than Heidi. Who is oldest? A: Eve
+Q: Which is bigger, 34 or 54? A: 54
+Q: Which is bigger, 98 or 6? A: 98
+Q: 11 * 6 = ? A: 66
+Q: Dave is older than Heidi. Heidi is older than Grace. Who is oldest? A: Dave
+Q: Carol is older than Eve. Eve is older than Grace. Who is oldest? A: Carol
+Q: 36 - 19 = ? A: 17
+Q: Count from 1 to 6. A: 1 2 3 4 5 6
+Q: Eve is older than Heidi. Heidi is older than Carol. Who is oldest? A: Eve
+Q: 62 + 21 = ? A: 83
+Q: Which is bigger, 8 or 60? A: 60
+Q: 89 - 83 = ? A: 6
+Q: 11 - 51 = ? A: -40
+Q: Carol is older than Alice. Alice is older than Heidi. Who is oldest? A: Carol
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: Eve is older than Carol. Carol is older than Alice. Who is oldest? A: Eve
+Q: 81 + 59 = ? A: 140
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: Which is bigger, 36 or 75? A: 75
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: Which is bigger, 84 or 6? A: 84
+Q: Count from 1 to 9. A: 1 2 3 4 5 6 7 8 9
+Q: Which is bigger, 25 or 63? A: 63
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: Which is bigger, 79 or 19? A: 79
+Q: Which is bigger, 97 or 45? A: 97
+Q: Carol is older than Dave. Dave is older than Bob. Who is oldest? A: Carol
+Q: Eve is older than Alice. Alice is older than Carol. Who is oldest? A: Eve
+Q: Which is bigger, 76 or 47? A: 76
+Q: Count from 1 to 18. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Q: 19 + 96 = ? A: 115
+Q: Which is bigger, 86 or 49? A: 86
+Q: Bob is older than Eve. Eve is older than Alice. Who is oldest? A: Bob
+Q: Count from 1 to 2. A: 1 2
+Q: Which is bigger, 48 or 25? A: 48
+Q: Which is bigger, 79 or 48? A: 79
+Q: 50 + 31 = ? A: 81
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: Count from 1 to 1. A: 1
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: Count from 1 to 9. A: 1 2 3 4 5 6 7 8 9
+Q: 30 + 98 = ? A: 128
+Q: Which is bigger, 80 or 19? A: 80
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: 89 - 96 = ? A: -7
+Q: 99 + 51 = ? A: 150
+Q: Which is bigger, 44 or 45? A: 45
+Q: 98 - 71 = ? A: 27
+Q: Bob is older than Frank. Frank is older than Eve. Who is oldest? A: Bob
+Q: Alice is older than Frank. Frank is older than Carol. Who is oldest? A: Alice
+Q: 97 + 13 = ? A: 110
+Q: Count from 1 to 6. A: 1 2 3 4 5 6
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: Which is bigger, 85 or 93? A: 93
+Q: Which is bigger, 17 or 69? A: 69
+Q: Grace is older than Bob. Bob is older than Frank. Who is oldest? A: Grace
+Q: 10 * 2 = ? A: 20
+Q: 2 * 12 = ? A: 24
+Q: 1 * 8 = ? A: 8
+Q: Bob is older than Dave. Dave is older than Carol. Who is oldest? A: Bob
+Q: Which is bigger, 90 or 73? A: 90
+Q: Frank is older than Eve. Eve is older than Alice. Who is oldest? A: Frank
+Q: Count from 1 to 15. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Q: Frank is older than Heidi. Heidi is older than Eve. Who is oldest? A: Frank
+Q: Frank is older than Bob. Bob is older than Carol. Who is oldest? A: Frank
+Q: Grace is older than Frank. Frank is older than Dave. Who is oldest? A: Grace
+Q: Which is bigger, 36 or 99? A: 99
+Q: 12 + 24 = ? A: 36
+Q: 25 + 96 = ? A: 121
+Q: 4 * 2 = ? A: 8
+Q: Bob is older than Eve. Eve is older than Carol. Who is oldest? A: Bob
+Q: Which is bigger, 35 or 30? A: 35
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: Which is bigger, 31 or 72? A: 72
+Q: Which is bigger, 31 or 61? A: 61
+Q: Which is bigger, 33 or 37? A: 37
+Q: 69 - 94 = ? A: -25
+Q: Which is bigger, 60 or 63? A: 63
+Q: Carol is older than Alice. Alice is older than Bob. Who is oldest? A: Carol
+Q: 39 - 0 = ? A: 39
+Q: Count from 1 to 15. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Q: Frank is older than Heidi. Heidi is older than Eve. Who is oldest? A: Frank
+Q: Eve is older than Frank. Frank is older than Grace. Who is oldest? A: Eve
+Q: Which is bigger, 71 or 35? A: 71
+Q: Count from 1 to 15. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Q: Count from 1 to 12. A: 1 2 3 4 5 6 7 8 9 10 11 12
+Q: 3 - 56 = ? A: -53
+Q: Which is bigger, 87 or 31? A: 87
+Q: Which is bigger, 8 or 5? A: 8
+Q: Which is bigger, 17 or 48? A: 48
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: Count from 1 to 4. A: 1 2 3 4
+Q: Count from 1 to 2. A: 1 2
+Q: Which is bigger, 25 or 30? A: 30
+Q: 67 + 97 = ? A: 164
+Q: Which is bigger, 28 or 74? A: 74
+Q: 9 - 74 = ? A: -65
+Q: 2 * 6 = ? A: 12
+Q: Heidi is older than Dave. Dave is older than Frank. Who is oldest? A: Heidi
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: Count from 1 to 6. A: 1 2 3 4 5 6
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: Which is bigger, 10 or 11? A: 11
+Q: Count from 1 to 4. A: 1 2 3 4
+Q: Grace is older than Alice. Alice is older than Bob. Who is oldest? A: Grace
+Q: Which is bigger, 6 or 36? A: 36
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: Which is bigger, 35 or 5? A: 35
+Q: Which is bigger, 92 or 33? A: 92
+Q: Which is bigger, 89 or 15? A: 89
+Q: Carol is older than Dave. Dave is older than Bob. Who is oldest? A: Carol
+Q: 1 * 10 = ? A: 10
+Q: Which is bigger, 64 or 9? A: 64
+Q: Count from 1 to 16. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Q: Count from 1 to 6. A: 1 2 3 4 5 6
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: Bob is older than Frank. Frank is older than Dave. Who is oldest? A: Bob
+Q: Grace is older than Eve. Eve is older than Dave. Who is oldest? A: Grace
+Q: 0 + 90 = ? A: 90
+Q: Carol is older than Dave. Dave is older than Bob. Who is oldest? A: Carol
+Q: Count from 1 to 1. A: 1
+Q: 9 * 4 = ? A: 36
+Q: 2 * 8 = ? A: 16
+Q: 51 + 62 = ? A: 113
+Q: Which is bigger, 71 or 60? A: 71
+Q: Carol is older than Eve. Eve is older than Grace. Who is oldest? A: Carol
+Q: Count from 1 to 1. A: 1
+Q: Carol is older than Eve. Eve is older than Grace. Who is oldest? A: Carol
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: 14 - 71 = ? A: -57
+Q: Which is bigger, 61 or 49? A: 61
+Q: Which is bigger, 29 or 2? A: 29
+Q: Which is bigger, 36 or 69? A: 69
+Q: 23 - 78 = ? A: -55
+Q: Which is bigger, 22 or 81? A: 81
+Q: 12 * 10 = ? A: 120
+Q: Which is bigger, 77 or 66? A: 77
+Q: Carol is older than Grace. Grace is older than Dave. Who is oldest? A: Carol
+Q: Alice is older than Eve. Eve is older than Grace. Who is oldest? A: Alice
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: 29 - 1 = ? A: 28
+Q: Which is bigger, 19 or 73? A: 73
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: Which is bigger, 33 or 96? A: 96
+Q: Count from 1 to 18. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Q: 10 * 12 = ? A: 120
+Q: Grace is older than Alice. Alice is older than Bob. Who is oldest? A: Grace
+Q: Which is bigger, 37 or 89? A: 89
+Q: Heidi is older than Grace. Grace is older than Eve. Who is oldest? A: Heidi
+Q: 89 - 76 = ? A: 13
+Q: Which is bigger, 8 or 60? A: 60
+Q: Which is bigger, 11 or 23? A: 23
+Q: Alice is older than Carol. Carol is older than Bob. Who is oldest? A: Alice
+Q: Count from 1 to 4. A: 1 2 3 4
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: 96 + 91 = ? A: 187
+Q: Count from 1 to 2. A: 1 2
+Q: 64 + 58 = ? A: 122
+Q: Count from 1 to 2. A: 1 2
+Q: Alice is older than Heidi. Heidi is older than Frank. Who is oldest? A: Alice
+Q: 37 - 65 = ? A: -28
+Q: 61 - 40 = ? A: 21
+Q: Which is bigger, 11 or 55? A: 55
+Q: Which is bigger, 56 or 79? A: 79
+Q: Grace is older than Alice. Alice is older than Dave. Who is oldest? A: Grace
+Q: Count from 1 to 4. A: 1 2 3 4
+Q: Which is bigger, 23 or 36? A: 36
+Q: Bob is older than Heidi. Heidi is older than Alice. Who is oldest? A: Bob
+Q: Which is bigger, 66 or 20? A: 66
+Q: Count from 1 to 3. A: 1 2 3
+Q: 8 * 0 = ? A: 0
+Q: 4 * 3 = ? A: 12
+Q: Count from 1 to 1. A: 1
+Q: Which is bigger, 48 or 18? A: 48
+Q: Eve is older than Grace. Grace is older than Frank. Who is oldest? A: Eve
+Q: Which is bigger, 35 or 91? A: 91
+Q: 6 * 9 = ? A: 54
+Q: Frank is older than Eve. Eve is older than Grace. Who is oldest? A: Frank
+Q: Frank is older than Carol. Carol is older than Alice. Who is oldest? A: Frank
+Q: 89 - 13 = ? A: 76
+Q: 6 * 11 = ? A: 66
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: Carol is older than Eve. Eve is older than Bob. Who is oldest? A: Carol
+Q: 10 * 1 = ? A: 10
+Q: Frank is older than Grace. Grace is older than Heidi. Who is oldest? A: Frank
+Q: Dave is older than Frank. Frank is older than Bob. Who is oldest? A: Dave
+Q: 53 - 23 = ? A: 30
+Q: Count from 1 to 18. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Q: 61 + 0 = ? A: 61
+Q: 60 - 67 = ? A: -7
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: Which is bigger, 35 or 77? A: 77
+Q: 9 * 12 = ? A: 108
+Q: Carol is older than Frank. Frank is older than Dave. Who is oldest? A: Carol
+Q: 48 - 0 = ? A: 48
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: Which is bigger, 84 or 13? A: 84
+Q: Which is bigger, 43 or 61? A: 61
+Q: Heidi is older than Carol. Carol is older than Alice. Who is oldest? A: Heidi
+Q: Grace is older than Frank. Frank is older than Heidi. Who is oldest? A: Grace
+Q: 66 + 27 = ? A: 93
+Q: Which is bigger, 89 or 37? A: 89
+Q: Which is bigger, 90 or 97? A: 97
+Q: Count from 1 to 12. A: 1 2 3 4 5 6 7 8 9 10 11 12
+Q: 23 - 79 = ? A: -56
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: Which is bigger, 74 or 37? A: 74
+Q: Which is bigger, 9 or 84? A: 84
+Q: Which is bigger, 78 or 33? A: 78
+Q: Frank is older than Alice. Alice is older than Eve. Who is oldest? A: Frank
+Q: 5 * 11 = ? A: 55
+Q: Which is bigger, 35 or 62? A: 62
+Q: 93 - 26 = ? A: 67
+Q: Eve is older than Carol. Carol is older than Frank. Who is oldest? A: Eve
+Q: Which is bigger, 17 or 54? A: 54
+Q: Count from 1 to 6. A: 1 2 3 4 5 6
+Q: Which is bigger, 65 or 99? A: 99
+Q: Count from 1 to 18. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: Which is bigger, 88 or 16? A: 88
+Q: Which is bigger, 48 or 56? A: 56
+Q: Dave is older than Carol. Carol is older than Alice. Who is oldest? A: Dave
+Q: Alice is older than Frank. Frank is older than Carol. Who is oldest? A: Alice
+Q: Which is bigger, 9 or 66? A: 66
+Q: 97 - 28 = ? A: 69
+Q: Count from 1 to 15. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Q: 64 + 27 = ? A: 91
+Q: 21 + 66 = ? A: 87
+Q: Count from 1 to 9. A: 1 2 3 4 5 6 7 8 9
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: Carol is older than Dave. Dave is older than Alice. Who is oldest? A: Carol
+Q: 50 - 31 = ? A: 19
+Q: Grace is older than Alice. Alice is older than Eve. Who is oldest? A: Grace
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: Count from 1 to 16. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Q: Heidi is older than Grace. Grace is older than Alice. Who is oldest? A: Heidi
+Q: 8 * 3 = ? A: 24
+Q: Count from 1 to 6. A: 1 2 3 4 5 6
+Q: Grace is older than Frank. Frank is older than Heidi. Who is oldest? A: Grace
+Q: Count from 1 to 9. A: 1 2 3 4 5 6 7 8 9
+Q: Count from 1 to 11. A: 1 2 3 4 5 6 7 8 9 10 11
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: 6 + 98 = ? A: 104
+Q: Eve is older than Alice. Alice is older than Carol. Who is oldest? A: Eve
+Q: Which is bigger, 31 or 54? A: 54
+Q: Grace is older than Bob. Bob is older than Frank. Who is oldest? A: Grace
+Q: 73 + 45 = ? A: 118
+Q: 62 - 60 = ? A: 2
+Q: 2 - 51 = ? A: -49
+Q: 59 + 41 = ? A: 100
+Q: Heidi is older than Frank. Frank is older than Bob. Who is oldest? A: Heidi
+Q: Dave is older than Eve. Eve is older than Heidi. Who is oldest? A: Dave
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: Which is bigger, 67 or 11? A: 67
+Q: Which is bigger, 87 or 8? A: 87
+Q: Grace is older than Bob. Bob is older than Eve. Who is oldest? A: Grace
+Q: 82 + 59 = ? A: 141
+Q: 66 + 82 = ? A: 148
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: Count from 1 to 4. A: 1 2 3 4
+Q: Which is bigger, 29 or 64? A: 64
+Q: Count from 1 to 2. A: 1 2
+Q: Which is bigger, 49 or 74? A: 74
+Q: Which is bigger, 82 or 15? A: 82
+Q: Count from 1 to 9. A: 1 2 3 4 5 6 7 8 9
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: 8 * 8 = ? A: 64
+Q: 12 * 6 = ? A: 72
+Q: Which is bigger, 52 or 17? A: 52
+Q: Bob is older than Frank. Frank is older than Heidi. Who is oldest? A: Bob
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: Which is bigger, 60 or 6? A: 60
+Q: 78 + 85 = ? A: 163
+Q: Which is bigger, 42 or 89? A: 89
+Q: Alice is older than Bob. Bob is older than Grace. Who is oldest? A: Alice
+Q: Which is bigger, 87 or 55? A: 87
+Q: Frank is older than Eve. Eve is older than Dave. Who is oldest? A: Frank
+Q: Count from 1 to 3. A: 1 2 3
+Q: Which is bigger, 82 or 42? A: 82
+Q: 11 - 73 = ? A: -62
+Q: 71 - 55 = ? A: 16
+Q: Dave is older than Heidi. Heidi is older than Carol. Who is oldest? A: Dave
+Q: Which is bigger, 9 or 30? A: 30
+Q: Count from 1 to 3. A: 1 2 3
+Q: 5 * 10 = ? A: 50
+Q: Heidi is older than Frank. Frank is older than Alice. Who is oldest? A: Heidi
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: Count from 1 to 18. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: 90 + 7 = ? A: 97
+Q: Dave is older than Eve. Eve is older than Bob. Who is oldest? A: Dave
+Q: Heidi is older than Frank. Frank is older than Eve. Who is oldest? A: Heidi
+Q: Alice is older than Grace. Grace is older than Bob. Who is oldest? A: Alice
+Q: Carol is older than Grace. Grace is older than Heidi. Who is oldest? A: Carol
+Q: 29 - 12 = ? A: 17
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: Dave is older than Carol. Carol is older than Grace. Who is oldest? A: Dave
+Q: Which is bigger, 91 or 86? A: 91
+Q: Grace is older than Frank. Frank is older than Heidi. Who is oldest? A: Grace
+Q: Heidi is older than Bob. Bob is older than Frank. Who is oldest? A: Heidi
+Q: Which is bigger, 29 or 54? A: 54
+Q: Which is bigger, 71 or 81? A: 81
+Q: Which is bigger, 18 or 86? A: 86
+Q: 43 + 49 = ? A: 92
+Q: 2 * 8 = ? A: 16
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: Which is bigger, 51 or 79? A: 79
+Q: Carol is older than Alice. Alice is older than Frank. Who is oldest? A: Carol
+Q: Count from 1 to 15. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Q: Frank is older than Carol. Carol is older than Dave. Who is oldest? A: Frank
+Q: Which is bigger, 89 or 4? A: 89
+Q: Which is bigger, 50 or 57? A: 57
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: 32 - 99 = ? A: -67
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: Bob is older than Carol. Carol is older than Eve. Who is oldest? A: Bob
+Q: 78 - 33 = ? A: 45
+Q: Carol is older than Dave. Dave is older than Grace. Who is oldest? A: Carol
+Q: Count from 1 to 1. A: 1
+Q: Heidi is older than Carol. Carol is older than Frank. Who is oldest? A: Heidi
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: Which is bigger, 61 or 82? A: 82
+Q: Which is bigger, 6 or 28? A: 28
+Q: Carol is older than Grace. Grace is older than Bob. Who is oldest? A: Carol
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: Grace is older than Bob. Bob is older than Carol. Who is oldest? A: Grace
+Q: Which is bigger, 86 or 35? A: 86
+Q: 1 + 40 = ? A: 41
+Q: Carol is older than Alice. Alice is older than Dave. Who is oldest? A: Carol
+Q: 44 - 93 = ? A: -49
+Q: Which is bigger, 67 or 9? A: 67
+Q: Which is bigger, 13 or 22? A: 22
+Q: Count from 1 to 1. A: 1
+Q: Frank is older than Grace. Grace is older than Alice. Who is oldest? A: Frank
+Q: 53 + 3 = ? A: 56
+Q: Count from 1 to 9. A: 1 2 3 4 5 6 7 8 9
+Q: Which is bigger, 90 or 13? A: 90
+Q: 7 - 49 = ? A: -42
+Q: Dave is older than Frank. Frank is older than Carol. Who is oldest? A: Dave
+Q: 73 + 52 = ? A: 125
+Q: Which is bigger, 39 or 82? A: 82
+Q: Count from 1 to 1. A: 1
+Q: 3 * 0 = ? A: 0
+Q: 51 + 79 = ? A: 130
+Q: Which is bigger, 20 or 53? A: 53
+Q: 88 + 37 = ? A: 125
+Q: Which is bigger, 21 or 37? A: 37
+Q: Dave is older than Carol. Carol is older than Heidi. Who is oldest? A: Dave
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: Frank is older than Grace. Grace is older than Eve. Who is oldest? A: Frank
+Q: Alice is older than Carol. Carol is older than Dave. Who is oldest? A: Alice
+Q: Count from 1 to 15. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Q: Which is bigger, 39 or 10? A: 39
+Q: Heidi is older than Eve. Eve is older than Grace. Who is oldest? A: Heidi
+Q: Count from 1 to 9. A: 1 2 3 4 5 6 7 8 9
+Q: 47 - 40 = ? A: 7
+Q: 9 * 10 = ? A: 90
+Q: Which is bigger, 97 or 1? A: 97
+Q: Count from 1 to 9. A: 1 2 3 4 5 6 7 8 9
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: Heidi is older than Bob. Bob is older than Dave. Who is oldest? A: Heidi
+Q: Which is bigger, 88 or 26? A: 88
+Q: Count from 1 to 1. A: 1
+Q: Which is bigger, 46 or 45? A: 46
+Q: Carol is older than Bob. Bob is older than Alice. Who is oldest? A: Carol
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: Which is bigger, 75 or 57? A: 75
+Q: Count from 1 to 11. A: 1 2 3 4 5 6 7 8 9 10 11
+Q: Which is bigger, 36 or 43? A: 43
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: Which is bigger, 17 or 40? A: 40
+Q: Which is bigger, 11 or 31? A: 31
+Q: 21 + 62 = ? A: 83
+Q: Dave is older than Heidi. Heidi is older than Frank. Who is oldest? A: Dave
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: 4 * 12 = ? A: 48
+Q: Alice is older than Heidi. Heidi is older than Carol. Who is oldest? A: Alice
+Q: Count from 1 to 11. A: 1 2 3 4 5 6 7 8 9 10 11
+Q: Which is bigger, 19 or 88? A: 88
+Q: Which is bigger, 83 or 50? A: 83
+Q: Eve is older than Frank. Frank is older than Alice. Who is oldest? A: Eve
+Q: 7 * 8 = ? A: 56
+Q: Dave is older than Grace. Grace is older than Heidi. Who is oldest? A: Dave
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: Which is bigger, 27 or 84? A: 84
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: Bob is older than Eve. Eve is older than Heidi. Who is oldest? A: Bob
+Q: Count from 1 to 18. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Q: Alice is older than Heidi. Heidi is older than Eve. Who is oldest? A: Alice
+Q: 81 + 67 = ? A: 148
+Q: Eve is older than Alice. Alice is older than Frank. Who is oldest? A: Eve
+Q: Which is bigger, 74 or 23? A: 74
+Q: Which is bigger, 17 or 72? A: 72
+Q: 3 * 6 = ? A: 18
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: Which is bigger, 39 or 68? A: 68
+Q: Frank is older than Bob. Bob is older than Carol. Who is oldest? A: Frank
+Q: Dave is older than Bob. Bob is older than Grace. Who is oldest? A: Dave
+Q: Count from 1 to 3. A: 1 2 3
+Q: Eve is older than Alice. Alice is older than Carol. Who is oldest? A: Eve
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: 98 + 90 = ? A: 188
+Q: Which is bigger, 76 or 40? A: 76
+Q: Grace is older than Alice. Alice is older than Heidi. Who is oldest? A: Grace
+Q: Alice is older than Frank. Frank is older than Bob. Who is oldest? A: Alice
+Q: Alice is older than Frank. Frank is older than Carol. Who is oldest? A: Alice
+Q: 73 + 94 = ? A: 167
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: 83 - 78 = ? A: 5
+Q: 7 * 10 = ? A: 70
+Q: Count from 1 to 6. A: 1 2 3 4 5 6
+Q: Count from 1 to 2. A: 1 2
+Q: Count from 1 to 15. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Q: Which is bigger, 15 or 22? A: 22
+Q: 91 + 63 = ? A: 154
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: Grace is older than Heidi. Heidi is older than Alice. Who is oldest? A: Grace
+Q: 25 - 4 = ? A: 21
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: Which is bigger, 23 or 97? A: 97
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: 4 * 0 = ? A: 0
+Q: Dave is older than Frank. Frank is older than Carol. Who is oldest? A: Dave
+Q: 51 - 66 = ? A: -15
+Q: Count from 1 to 18. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Q: Count from 1 to 3. A: 1 2 3
+Q: 54 - 96 = ? A: -42
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: 64 + 34 = ? A: 98
+Q: Heidi is older than Carol. Carol is older than Eve. Who is oldest? A: Heidi
+Q: 21 - 53 = ? A: -32
+Q: Bob is older than Frank. Frank is older than Eve. Who is oldest? A: Bob
+Q: Heidi is older than Alice. Alice is older than Dave. Who is oldest? A: Heidi
+Q: 86 + 46 = ? A: 132
+Q: Heidi is older than Frank. Frank is older than Bob. Who is oldest? A: Heidi
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: 5 * 1 = ? A: 5
+Q: Which is bigger, 71 or 63? A: 71
+Q: Which is bigger, 93 or 25? A: 93
+Q: Heidi is older than Bob. Bob is older than Frank. Who is oldest? A: Heidi
+Q: 72 + 52 = ? A: 124
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: Eve is older than Heidi. Heidi is older than Grace. Who is oldest? A: Eve
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: Heidi is older than Bob. Bob is older than Dave. Who is oldest? A: Heidi
+Q: Count from 1 to 1. A: 1
+Q: Bob is older than Alice. Alice is older than Frank. Who is oldest? A: Bob
+Q: Which is bigger, 56 or 34? A: 56
+Q: Frank is older than Bob. Bob is older than Heidi. Who is oldest? A: Frank
+Q: 67 + 26 = ? A: 93
+Q: Grace is older than Eve. Eve is older than Alice. Who is oldest? A: Grace
+Q: 11 * 3 = ? A: 33
+Q: 47 - 39 = ? A: 8
+Q: 3 * 6 = ? A: 18
+Q: Which is bigger, 43 or 79? A: 79
+Q: 33 + 74 = ? A: 107
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: Which is bigger, 74 or 94? A: 94
+Q: 3 * 8 = ? A: 24
+Q: Count from 1 to 15. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Q: Count from 1 to 1. A: 1
+Q: Alice is older than Dave. Dave is older than Grace. Who is oldest? A: Alice
+Q: Heidi is older than Alice. Alice is older than Dave. Who is oldest? A: Heidi
+Q: Which is bigger, 90 or 18? A: 90
+Q: 0 * 3 = ? A: 0
+Q: Count from 1 to 12. A: 1 2 3 4 5 6 7 8 9 10 11 12
+Q: 12 * 9 = ? A: 108
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: 12 * 5 = ? A: 60
+Q: 8 * 6 = ? A: 48
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: 4 * 11 = ? A: 44
+Q: Carol is older than Grace. Grace is older than Alice. Who is oldest? A: Carol
+Q: Which is bigger, 52 or 54? A: 54
+Q: 19 - 17 = ? A: 2
+Q: 16 + 82 = ? A: 98
+Q: Carol is older than Alice. Alice is older than Bob. Who is oldest? A: Carol
+Q: 3 * 9 = ? A: 27
+Q: Grace is older than Frank. Frank is older than Eve. Who is oldest? A: Grace
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: Which is bigger, 74 or 27? A: 74
+Q: Grace is older than Dave. Dave is older than Eve. Who is oldest? A: Grace
+Q: Which is bigger, 81 or 79? A: 81
+Q: Which is bigger, 33 or 12? A: 33
+Q: 21 - 18 = ? A: 3
+Q: Grace is older than Bob. Bob is older than Frank. Who is oldest? A: Grace
+Q: Alice is older than Carol. Carol is older than Dave. Who is oldest? A: Alice
+Q: 2 * 9 = ? A: 18
+Q: 98 + 25 = ? A: 123
+Q: Count from 1 to 4. A: 1 2 3 4
+Q: 2 * 5 = ? A: 10
+Q: 12 * 11 = ? A: 132
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: 12 * 7 = ? A: 84
+Q: Carol is older than Grace. Grace is older than Alice. Who is oldest? A: Carol
+Q: Which is bigger, 98 or 28? A: 98
+Q: 11 * 12 = ? A: 132
+Q: Which is bigger, 80 or 22? A: 80
+Q: Which is bigger, 10 or 47? A: 47
+Q: 5 * 9 = ? A: 45
+Q: Alice is older than Carol. Carol is older than Eve. Who is oldest? A: Alice
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: Bob is older than Carol. Carol is older than Heidi. Who is oldest? A: Bob
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: 11 * 11 = ? A: 121
+Q: 74 - 81 = ? A: -7
+Q: Which is bigger, 26 or 50? A: 50
+Q: Carol is older than Eve. Eve is older than Heidi. Who is oldest? A: Carol
+Q: Dave is older than Bob. Bob is older than Heidi. Who is oldest? A: Dave
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: Count from 1 to 16. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: Heidi is older than Eve. Eve is older than Grace. Who is oldest? A: Heidi
+Q: 51 + 43 = ? A: 94
+Q: Bob is older than Grace. Grace is older than Heidi. Who is oldest? A: Bob
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: 7 * 9 = ? A: 63
+Q: Which is bigger, 35 or 39? A: 39
+Q: Alice is older than Grace. Grace is older than Carol. Who is oldest? A: Alice
+Q: Alice is older than Heidi. Heidi is older than Carol. Who is oldest? A: Alice
+Q: Alice is older than Bob. Bob is older than Carol. Who is oldest? A: Alice
+Q: 6 * 4 = ? A: 24
+Q: 87 - 80 = ? A: 7
+Q: Which is bigger, 20 or 53? A: 53
+Q: Which is bigger, 47 or 72? A: 72
+Q: 10 + 22 = ? A: 32
+Q: 50 + 63 = ? A: 113
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: 25 - 47 = ? A: -22
+Q: Count from 1 to 4. A: 1 2 3 4
+Q: Dave is older than Carol. Carol is older than Grace. Who is oldest? A: Dave
+Q: Carol is older than Heidi. Heidi is older than Dave. Who is oldest? A: Carol
+Q: 51 + 10 = ? A: 61
+Q: Bob is older than Frank. Frank is older than Heidi. Who is oldest? A: Bob
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: 12 * 5 = ? A: 60
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: 52 + 53 = ? A: 105
+Q: 79 - 12 = ? A: 67
+Q: 13 - 93 = ? A: -80
+Q: 8 - 93 = ? A: -85
+Q: 10 * 7 = ? A: 70
+Q: Eve is older than Dave. Dave is older than Heidi. Who is oldest? A: Eve
+Q: Which is bigger, 89 or 92? A: 92
+Q: Frank is older than Eve. Eve is older than Bob. Who is oldest? A: Frank
+Q: Dave is older than Grace. Grace is older than Alice. Who is oldest? A: Dave
+Q: Frank is older than Heidi. Heidi is older than Carol. Who is oldest? A: Frank
+Q: Count from 1 to 16. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Q: Count from 1 to 1. A: 1
+Q: Heidi is older than Frank. Frank is older than Carol. Who is oldest? A: Heidi
+Q: 45 - 73 = ? A: -28
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: Count from 1 to 18. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Q: Bob is older than Grace. Grace is older than Eve. Who is oldest? A: Bob
+Q: Frank is older than Alice. Alice is older than Dave. Who is oldest? A: Frank
+Q: Dave is older than Alice. Alice is older than Heidi. Who is oldest? A: Dave
+Q: Grace is older than Carol. Carol is older than Frank. Who is oldest? A: Grace
+Q: Count from 1 to 16. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Q: Which is bigger, 31 or 16? A: 31
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: Count from 1 to 11. A: 1 2 3 4 5 6 7 8 9 10 11
+Q: Frank is older than Bob. Bob is older than Carol. Who is oldest? A: Frank
+Q: 63 - 21 = ? A: 42
+Q: Eve is older than Frank. Frank is older than Dave. Who is oldest? A: Eve
+Q: Which is bigger, 63 or 7? A: 63
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: 12 * 10 = ? A: 120
+Q: Dave is older than Alice. Alice is older than Heidi. Who is oldest? A: Dave
+Q: Count from 1 to 11. A: 1 2 3 4 5 6 7 8 9 10 11
+Q: 33 + 51 = ? A: 84
+Q: Which is bigger, 55 or 32? A: 55
+Q: Count from 1 to 12. A: 1 2 3 4 5 6 7 8 9 10 11 12
+Q: Which is bigger, 46 or 6? A: 46
+Q: Count from 1 to 2. A: 1 2
+Q: Alice is older than Frank. Frank is older than Carol. Who is oldest? A: Alice
+Q: 3 * 8 = ? A: 24
+Q: Count from 1 to 3. A: 1 2 3
+Q: Which is bigger, 76 or 7? A: 76
+Q: Which is bigger, 14 or 35? A: 35
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: Carol is older than Dave. Dave is older than Heidi. Who is oldest? A: Carol
+Q: Which is bigger, 94 or 79? A: 94
+Q: 11 * 4 = ? A: 44
+Q: Grace is older than Eve. Eve is older than Frank. Who is oldest? A: Grace
+Q: Which is bigger, 2 or 34? A: 34
+Q: Heidi is older than Eve. Eve is older than Grace. Who is oldest? A: Heidi
+Q: Count from 1 to 9. A: 1 2 3 4 5 6 7 8 9
+Q: Which is bigger, 71 or 33? A: 71
+Q: Count from 1 to 1. A: 1
+Q: Which is bigger, 59 or 33? A: 59
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: 26 + 58 = ? A: 84
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: 43 - 28 = ? A: 15
+Q: Count from 1 to 11. A: 1 2 3 4 5 6 7 8 9 10 11
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: Which is bigger, 96 or 93? A: 96
+Q: Which is bigger, 79 or 81? A: 81
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: 72 + 94 = ? A: 166
+Q: Dave is older than Alice. Alice is older than Eve. Who is oldest? A: Dave
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: Grace is older than Heidi. Heidi is older than Carol. Who is oldest? A: Grace
+Q: 10 * 3 = ? A: 30
+Q: 33 - 52 = ? A: -19
+Q: 1 * 1 = ? A: 1
+Q: Frank is older than Eve. Eve is older than Heidi. Who is oldest? A: Frank
+Q: Which is bigger, 68 or 93? A: 93
+Q: Eve is older than Heidi. Heidi is older than Grace. Who is oldest? A: Eve
+Q: Dave is older than Grace. Grace is older than Heidi. Who is oldest? A: Dave
+Q: Which is bigger, 37 or 10? A: 37
+Q: Which is bigger, 67 or 34? A: 67
+Q: Count from 1 to 4. A: 1 2 3 4
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: 30 - 87 = ? A: -57
+Q: 2 * 1 = ? A: 2
+Q: Carol is older than Heidi. Heidi is older than Alice. Who is oldest? A: Carol
+Q: Bob is older than Heidi. Heidi is older than Frank. Who is oldest? A: Bob
+Q: Count from 1 to 2. A: 1 2
+Q: Bob is older than Eve. Eve is older than Heidi. Who is oldest? A: Bob
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: 89 - 5 = ? A: 84
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: Which is bigger, 13 or 3? A: 13
+Q: 75 + 73 = ? A: 148
+Q: Which is bigger, 73 or 97? A: 97
+Q: Which is bigger, 41 or 14? A: 41
+Q: Eve is older than Bob. Bob is older than Frank. Who is oldest? A: Eve
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: Which is bigger, 3 or 15? A: 15
+Q: 5 * 5 = ? A: 25
+Q: Count from 1 to 12. A: 1 2 3 4 5 6 7 8 9 10 11 12
+Q: Which is bigger, 40 or 42? A: 42
+Q: 7 * 5 = ? A: 35
+Q: Which is bigger, 89 or 75? A: 89
+Q: Count from 1 to 15. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Q: 64 + 82 = ? A: 146
+Q: Carol is older than Dave. Dave is older than Grace. Who is oldest? A: Carol
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: Which is bigger, 30 or 49? A: 49
+Q: Dave is older than Frank. Frank is older than Heidi. Who is oldest? A: Dave
+Q: Alice is older than Bob. Bob is older than Grace. Who is oldest? A: Alice
+Q: Count from 1 to 6. A: 1 2 3 4 5 6
+Q: Which is bigger, 48 or 76? A: 76
+Q: Which is bigger, 28 or 98? A: 98
+Q: Eve is older than Grace. Grace is older than Frank. Who is oldest? A: Eve
+Q: Count from 1 to 11. A: 1 2 3 4 5 6 7 8 9 10 11
+Q: Count from 1 to 18. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Q: 86 - 84 = ? A: 2
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: 4 * 11 = ? A: 44
+Q: 8 * 5 = ? A: 40
+Q: Which is bigger, 28 or 3? A: 28
+Q: Eve is older than Alice. Alice is older than Dave. Who is oldest? A: Eve
+Q: Which is bigger, 19 or 65? A: 65
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: 3 * 0 = ? A: 0
+Q: Count from 1 to 12. A: 1 2 3 4 5 6 7 8 9 10 11 12
+Q: 29 - 98 = ? A: -69
+Q: Which is bigger, 51 or 82? A: 82
+Q: Dave is older than Eve. Eve is older than Heidi. Who is oldest? A: Dave
+Q: 95 + 91 = ? A: 186
+Q: 29 - 27 = ? A: 2
+Q: Eve is older than Dave. Dave is older than Bob. Who is oldest? A: Eve
+Q: Which is bigger, 59 or 49? A: 59
+Q: Count from 1 to 1. A: 1
+Q: Which is bigger, 19 or 90? A: 90
+Q: 9 * 12 = ? A: 108
+Q: Count from 1 to 1. A: 1
+Q: Which is bigger, 5 or 57? A: 57
+Q: 11 * 0 = ? A: 0
+Q: Eve is older than Dave. Dave is older than Carol. Who is oldest? A: Eve
+Q: 99 + 2 = ? A: 101
+Q: Which is bigger, 20 or 1? A: 20
+Q: 43 + 42 = ? A: 85
+Q: Frank is older than Grace. Grace is older than Dave. Who is oldest? A: Frank
+Q: 5 - 75 = ? A: -70
+Q: Bob is older than Dave. Dave is older than Grace. Who is oldest? A: Bob
+Q: Alice is older than Frank. Frank is older than Grace. Who is oldest? A: Alice
+Q: 52 - 41 = ? A: 11
+Q: Which is bigger, 42 or 58? A: 58
+Q: Carol is older than Alice. Alice is older than Heidi. Who is oldest? A: Carol
+Q: Which is bigger, 80 or 89? A: 89
+Q: Heidi is older than Eve. Eve is older than Carol. Who is oldest? A: Heidi
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: Frank is older than Alice. Alice is older than Bob. Who is oldest? A: Frank
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: Bob is older than Alice. Alice is older than Eve. Who is oldest? A: Bob
+Q: Frank is older than Bob. Bob is older than Alice. Who is oldest? A: Frank
+Q: Dave is older than Heidi. Heidi is older than Eve. Who is oldest? A: Dave
+Q: Count from 1 to 2. A: 1 2
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: Eve is older than Bob. Bob is older than Heidi. Who is oldest? A: Eve
+Q: Which is bigger, 40 or 54? A: 54
+Q: Which is bigger, 43 or 22? A: 43
+Q: Alice is older than Dave. Dave is older than Eve. Who is oldest? A: Alice
+Q: Carol is older than Dave. Dave is older than Alice. Who is oldest? A: Carol
+Q: 0 * 10 = ? A: 0
+Q: Frank is older than Bob. Bob is older than Grace. Who is oldest? A: Frank
+Q: 34 - 28 = ? A: 6
+Q: Which is bigger, 69 or 33? A: 69
+Q: Grace is older than Carol. Carol is older than Bob. Who is oldest? A: Grace
+Q: Which is bigger, 69 or 38? A: 69
+Q: Which is bigger, 56 or 50? A: 56
+Q: 94 - 10 = ? A: 84
+Q: 74 + 32 = ? A: 106
+Q: Which is bigger, 51 or 48? A: 51
+Q: Count from 1 to 3. A: 1 2 3
+Q: Dave is older than Carol. Carol is older than Frank. Who is oldest? A: Dave
+Q: Count from 1 to 15. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Q: Which is bigger, 33 or 13? A: 33
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: 57 - 2 = ? A: 55
+Q: Dave is older than Alice. Alice is older than Grace. Who is oldest? A: Dave
+Q: Carol is older than Dave. Dave is older than Eve. Who is oldest? A: Carol
+Q: Frank is older than Grace. Grace is older than Heidi. Who is oldest? A: Frank
+Q: 18 + 82 = ? A: 100
+Q: 91 + 71 = ? A: 162
+Q: Which is bigger, 23 or 77? A: 77
+Q: Count from 1 to 11. A: 1 2 3 4 5 6 7 8 9 10 11
+Q: 66 - 23 = ? A: 43
+Q: Count from 1 to 3. A: 1 2 3
+Q: Which is bigger, 76 or 94? A: 94
+Q: Grace is older than Eve. Eve is older than Dave. Who is oldest? A: Grace
+Q: Which is bigger, 79 or 12? A: 79
+Q: Alice is older than Bob. Bob is older than Carol. Who is oldest? A: Alice
+Q: Count from 1 to 3. A: 1 2 3
+Q: 70 + 84 = ? A: 154
+Q: Count from 1 to 15. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Q: Heidi is older than Alice. Alice is older than Grace. Who is oldest? A: Heidi
+Q: 86 - 73 = ? A: 13
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: Which is bigger, 23 or 80? A: 80
+Q: Count from 1 to 2. A: 1 2
+Q: Which is bigger, 57 or 96? A: 96
+Q: Which is bigger, 89 or 96? A: 96
+Q: 11 - 46 = ? A: -35
+Q: Count from 1 to 3. A: 1 2 3
+Q: Dave is older than Alice. Alice is older than Carol. Who is oldest? A: Dave
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: 44 - 88 = ? A: -44
+Q: Count from 1 to 3. A: 1 2 3
+Q: Which is bigger, 15 or 49? A: 49
+Q: Which is bigger, 16 or 43? A: 43
+Q: 61 - 85 = ? A: -24
+Q: 11 * 5 = ? A: 55
+Q: Which is bigger, 46 or 43? A: 46
+Q: Count from 1 to 11. A: 1 2 3 4 5 6 7 8 9 10 11
+Q: Which is bigger, 46 or 53? A: 53
+Q: Count from 1 to 2. A: 1 2
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: 25 + 32 = ? A: 57
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: Which is bigger, 30 or 44? A: 44
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: Dave is older than Heidi. Heidi is older than Bob. Who is oldest? A: Dave
+Q: Grace is older than Bob. Bob is older than Alice. Who is oldest? A: Grace
+Q: Which is bigger, 8 or 66? A: 66
+Q: Dave is older than Alice. Alice is older than Bob. Who is oldest? A: Dave
+Q: Grace is older than Heidi. Heidi is older than Bob. Who is oldest? A: Grace
+Q: Alice is older than Bob. Bob is older than Carol. Who is oldest? A: Alice
+Q: 0 * 7 = ? A: 0
+Q: Which is bigger, 41 or 48? A: 48
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: 35 + 42 = ? A: 77
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: Count from 1 to 1. A: 1
+Q: Heidi is older than Grace. Grace is older than Frank. Who is oldest? A: Heidi
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: Dave is older than Bob. Bob is older than Frank. Who is oldest? A: Dave
+Q: 6 * 5 = ? A: 30
+Q: 69 - 46 = ? A: 23
+Q: Alice is older than Grace. Grace is older than Eve. Who is oldest? A: Alice
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: Count from 1 to 1. A: 1
+Q: Which is bigger, 26 or 75? A: 75
+Q: Alice is older than Grace. Grace is older than Eve. Who is oldest? A: Alice
+Q: Which is bigger, 98 or 14? A: 98
+Q: 19 - 5 = ? A: 14
+Q: Which is bigger, 27 or 81? A: 81
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: 99 - 2 = ? A: 97
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: 10 * 5 = ? A: 50
+Q: Which is bigger, 66 or 30? A: 66
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: 80 - 18 = ? A: 62
+Q: Which is bigger, 87 or 85? A: 87
+Q: 10 * 1 = ? A: 10
+Q: Bob is older than Grace. Grace is older than Heidi. Who is oldest? A: Bob
+Q: Bob is older than Heidi. Heidi is older than Carol. Who is oldest? A: Bob
+Q: Which is bigger, 36 or 10? A: 36
+Q: 49 - 49 = ? A: 0
+Q: Which is bigger, 67 or 37? A: 67
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: Carol is older than Bob. Bob is older than Grace. Who is oldest? A: Carol
+Q: 3 * 1 = ? A: 3
+Q: Bob is older than Eve. Eve is older than Carol. Who is oldest? A: Bob
+Q: Which is bigger, 71 or 19? A: 71
+Q: Which is bigger, 31 or 26? A: 31
+Q: Eve is older than Dave. Dave is older than Carol. Who is oldest? A: Eve
+Q: Grace is older than Bob. Bob is older than Alice. Who is oldest? A: Grace
+Q: 2 - 20 = ? A: -18
+Q: Count from 1 to 11. A: 1 2 3 4 5 6 7 8 9 10 11
+Q: Count from 1 to 6. A: 1 2 3 4 5 6
+Q: Frank is older than Grace. Grace is older than Alice. Who is oldest? A: Frank
+Q: 27 + 16 = ? A: 43
+Q: Carol is older than Heidi. Heidi is older than Eve. Who is oldest? A: Carol
+Q: Alice is older than Eve. Eve is older than Grace. Who is oldest? A: Alice
+Q: Which is bigger, 1 or 50? A: 50
+Q: Count from 1 to 11. A: 1 2 3 4 5 6 7 8 9 10 11
+Q: 28 + 2 = ? A: 30
+Q: 85 - 33 = ? A: 52
+Q: Which is bigger, 79 or 30? A: 79
+Q: Which is bigger, 61 or 46? A: 61
+Q: Which is bigger, 9 or 29? A: 29
+Q: Bob is older than Heidi. Heidi is older than Frank. Who is oldest? A: Bob
+Q: Bob is older than Dave. Dave is older than Frank. Who is oldest? A: Bob
+Q: 97 + 12 = ? A: 109
+Q: Which is bigger, 25 or 61? A: 61
+Q: Which is bigger, 36 or 39? A: 39
+Q: Alice is older than Grace. Grace is older than Bob. Who is oldest? A: Alice
+Q: 11 * 10 = ? A: 110
+Q: Grace is older than Heidi. Heidi is older than Carol. Who is oldest? A: Grace
+Q: Which is bigger, 6 or 80? A: 80
+Q: 48 - 14 = ? A: 34
+Q: Which is bigger, 63 or 64? A: 64
+Q: Which is bigger, 36 or 74? A: 74
+Q: 5 * 6 = ? A: 30
+Q: 56 + 41 = ? A: 97
+Q: Carol is older than Alice. Alice is older than Eve. Who is oldest? A: Carol
+Q: Dave is older than Frank. Frank is older than Grace. Who is oldest? A: Dave
+Q: 94 + 47 = ? A: 141
+Q: Which is bigger, 17 or 37? A: 37
+Q: 52 - 49 = ? A: 3
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: 60 + 38 = ? A: 98
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: 0 * 0 = ? A: 0
+Q: Which is bigger, 73 or 99? A: 99
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: Grace is older than Frank. Frank is older than Heidi. Who is oldest? A: Grace
+Q: 75 + 62 = ? A: 137
+Q: Bob is older than Carol. Carol is older than Alice. Who is oldest? A: Bob
+Q: Grace is older than Alice. Alice is older than Bob. Who is oldest? A: Grace
+Q: Bob is older than Carol. Carol is older than Frank. Who is oldest? A: Bob
+Q: Carol is older than Grace. Grace is older than Heidi. Who is oldest? A: Carol
+Q: Which is bigger, 13 or 77? A: 77
+Q: 4 + 87 = ? A: 91
+Q: Eve is older than Grace. Grace is older than Carol. Who is oldest? A: Eve
+Q: Count from 1 to 11. A: 1 2 3 4 5 6 7 8 9 10 11
+Q: 76 + 31 = ? A: 107
+Q: Which is bigger, 71 or 19? A: 71
+Q: Which is bigger, 45 or 93? A: 93
+Q: Heidi is older than Bob. Bob is older than Frank. Who is oldest? A: Heidi
+Q: 3 * 5 = ? A: 15
+Q: 46 + 71 = ? A: 117
+Q: 59 - 33 = ? A: 26
+Q: 98 - 19 = ? A: 79
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: Carol is older than Eve. Eve is older than Bob. Who is oldest? A: Carol
+Q: Count from 1 to 6. A: 1 2 3 4 5 6
+Q: Count from 1 to 15. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Q: 11 * 7 = ? A: 77
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: Alice is older than Carol. Carol is older than Frank. Who is oldest? A: Alice
+Q: Heidi is older than Carol. Carol is older than Dave. Who is oldest? A: Heidi
+Q: 5 * 7 = ? A: 35
+Q: Which is bigger, 61 or 54? A: 61
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: Count from 1 to 9. A: 1 2 3 4 5 6 7 8 9
+Q: 94 - 41 = ? A: 53
+Q: Grace is older than Eve. Eve is older than Bob. Who is oldest? A: Grace
+Q: Which is bigger, 58 or 34? A: 58
+Q: 2 * 3 = ? A: 6
+Q: 6 * 1 = ? A: 6
+Q: Which is bigger, 26 or 19? A: 26
+Q: Which is bigger, 19 or 20? A: 20
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: Frank is older than Bob. Bob is older than Dave. Who is oldest? A: Frank
+Q: 8 * 10 = ? A: 80
+Q: Which is bigger, 31 or 58? A: 58
+Q: Carol is older than Grace. Grace is older than Eve. Who is oldest? A: Carol
+Q: Count from 1 to 18. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Q: 16 + 50 = ? A: 66
+Q: Which is bigger, 78 or 89? A: 89
+Q: Heidi is older than Eve. Eve is older than Alice. Who is oldest? A: Heidi
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: Which is bigger, 41 or 13? A: 41
+Q: Heidi is older than Alice. Alice is older than Bob. Who is oldest? A: Heidi
+Q: Grace is older than Bob. Bob is older than Carol. Who is oldest? A: Grace
+Q: Which is bigger, 78 or 2? A: 78
+Q: Count from 1 to 1. A: 1
+Q: 19 + 76 = ? A: 95
+Q: 36 - 55 = ? A: -19
+Q: Count from 1 to 2. A: 1 2
+Q: 14 - 15 = ? A: -1
+Q: Which is bigger, 94 or 76? A: 94
+Q: 70 - 59 = ? A: 11
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: 18 + 84 = ? A: 102
+Q: 8 - 1 = ? A: 7
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: Dave is older than Bob. Bob is older than Alice. Who is oldest? A: Dave
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: Which is bigger, 67 or 2? A: 67
+Q: Which is bigger, 48 or 97? A: 97
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: Count from 1 to 1. A: 1
+Q: Dave is older than Carol. Carol is older than Alice. Who is oldest? A: Dave
+Q: Count from 1 to 11. A: 1 2 3 4 5 6 7 8 9 10 11
+Q: Count from 1 to 1. A: 1
+Q: Which is bigger, 82 or 91? A: 91
+Q: Count from 1 to 2. A: 1 2
+Q: Which is bigger, 88 or 55? A: 88
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: 11 * 1 = ? A: 11
+Q: Which is bigger, 18 or 72? A: 72
+Q: Count from 1 to 11. A: 1 2 3 4 5 6 7 8 9 10 11
+Q: 92 + 29 = ? A: 121
+Q: Count from 1 to 6. A: 1 2 3 4 5 6
+Q: 19 - 29 = ? A: -10
+Q: Count from 1 to 9. A: 1 2 3 4 5 6 7 8 9
+Q: Which is bigger, 43 or 8? A: 43
+Q: 72 + 35 = ? A: 107
+Q: Which is bigger, 44 or 47? A: 47
+Q: Grace is older than Dave. Dave is older than Eve. Who is oldest? A: Grace
+Q: 3 - 20 = ? A: -17
+Q: Which is bigger, 23 or 93? A: 93
+Q: Bob is older than Grace. Grace is older than Heidi. Who is oldest? A: Bob
+Q: 10 * 10 = ? A: 100
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: 26 + 35 = ? A: 61
+Q: Count from 1 to 4. A: 1 2 3 4
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: Count from 1 to 3. A: 1 2 3
+Q: Frank is older than Alice. Alice is older than Grace. Who is oldest? A: Frank
+Q: Count from 1 to 3. A: 1 2 3
+Q: Dave is older than Carol. Carol is older than Eve. Who is oldest? A: Dave
+Q: Bob is older than Eve. Eve is older than Dave. Who is oldest? A: Bob
+Q: Which is bigger, 53 or 68? A: 68
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: Count from 1 to 2. A: 1 2
+Q: Which is bigger, 18 or 95? A: 95
+Q: Count from 1 to 16. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Q: Which is bigger, 38 or 2? A: 38
+Q: 33 + 5 = ? A: 38
+Q: Which is bigger, 18 or 45? A: 45
+Q: Bob is older than Heidi. Heidi is older than Eve. Who is oldest? A: Bob
+Q: Which is bigger, 98 or 90? A: 98
+Q: Which is bigger, 84 or 74? A: 84
+Q: Count from 1 to 12. A: 1 2 3 4 5 6 7 8 9 10 11 12
+Q: 4 * 12 = ? A: 48
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: Which is bigger, 80 or 23? A: 80
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: Which is bigger, 70 or 36? A: 70
+Q: Count from 1 to 6. A: 1 2 3 4 5 6
+Q: 4 * 10 = ? A: 40
+Q: 34 + 72 = ? A: 106
+Q: 19 - 89 = ? A: -70
+Q: 88 + 95 = ? A: 183
+Q: Dave is older than Heidi. Heidi is older than Eve. Who is oldest? A: Dave
+Q: Bob is older than Heidi. Heidi is older than Frank. Who is oldest? A: Bob
+Q: Carol is older than Bob. Bob is older than Grace. Who is oldest? A: Carol
+Q: Which is bigger, 63 or 48? A: 63
+Q: Count from 1 to 16. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Q: Heidi is older than Dave. Dave is older than Grace. Who is oldest? A: Heidi
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: Which is bigger, 87 or 16? A: 87
+Q: Which is bigger, 44 or 42? A: 44
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: Eve is older than Bob. Bob is older than Grace. Who is oldest? A: Eve
+Q: Eve is older than Bob. Bob is older than Heidi. Who is oldest? A: Eve
+Q: Which is bigger, 55 or 30? A: 55
+Q: Which is bigger, 34 or 10? A: 34
+Q: Which is bigger, 44 or 70? A: 70
+Q: Grace is older than Alice. Alice is older than Heidi. Who is oldest? A: Grace
+Q: 78 + 86 = ? A: 164
+Q: Count from 1 to 16. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Q: 61 + 59 = ? A: 120
+Q: Which is bigger, 72 or 52? A: 72
+Q: 37 + 86 = ? A: 123
+Q: Count from 1 to 16. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Q: Carol is older than Grace. Grace is older than Eve. Who is oldest? A: Carol
+Q: Which is bigger, 82 or 44? A: 82
+Q: 0 * 11 = ? A: 0
+Q: Which is bigger, 9 or 69? A: 69
+Q: Which is bigger, 77 or 35? A: 77
+Q: 98 - 42 = ? A: 56
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: 21 + 88 = ? A: 109
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: 2 * 2 = ? A: 4
+Q: Dave is older than Grace. Grace is older than Bob. Who is oldest? A: Dave
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: Count from 1 to 6. A: 1 2 3 4 5 6
+Q: Frank is older than Eve. Eve is older than Alice. Who is oldest? A: Frank
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: 30 - 26 = ? A: 4
+Q: Alice is older than Eve. Eve is older than Carol. Who is oldest? A: Alice
+Q: Which is bigger, 29 or 35? A: 35
+Q: 10 * 3 = ? A: 30
+Q: Which is bigger, 38 or 70? A: 70
+Q: 8 * 2 = ? A: 16
+Q: Count from 1 to 3. A: 1 2 3
+Q: Alice is older than Bob. Bob is older than Heidi. Who is oldest? A: Alice
+Q: 83 + 66 = ? A: 149
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: 95 + 33 = ? A: 128
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: Eve is older than Grace. Grace is older than Heidi. Who is oldest? A: Eve
+Q: Count from 1 to 15. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Q: Carol is older than Grace. Grace is older than Dave. Who is oldest? A: Carol
+Q: 11 * 8 = ? A: 88
+Q: Which is bigger, 47 or 39? A: 47
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: Carol is older than Dave. Dave is older than Alice. Who is oldest? A: Carol
+Q: Which is bigger, 23 or 45? A: 45
+Q: 90 + 15 = ? A: 105
+Q: Which is bigger, 89 or 38? A: 89
+Q: Heidi is older than Carol. Carol is older than Eve. Who is oldest? A: Heidi
+Q: Which is bigger, 3 or 40? A: 40
+Q: Bob is older than Eve. Eve is older than Carol. Who is oldest? A: Bob
+Q: 7 * 5 = ? A: 35
+Q: Count from 1 to 16. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Q: Count from 1 to 4. A: 1 2 3 4
+Q: Which is bigger, 47 or 68? A: 68
+Q: Which is bigger, 23 or 20? A: 23
+Q: Alice is older than Dave. Dave is older than Frank. Who is oldest? A: Alice
+Q: Which is bigger, 53 or 23? A: 53
+Q: Count from 1 to 9. A: 1 2 3 4 5 6 7 8 9
+Q: Grace is older than Alice. Alice is older than Dave. Who is oldest? A: Grace
+Q: 5 * 9 = ? A: 45
+Q: Which is bigger, 57 or 79? A: 79
+Q: Bob is older than Carol. Carol is older than Grace. Who is oldest? A: Bob
+Q: 91 + 96 = ? A: 187
+Q: Which is bigger, 75 or 79? A: 79
+Q: 3 * 11 = ? A: 33
+Q: 11 * 11 = ? A: 121
+Q: 8 * 10 = ? A: 80
+Q: 68 - 26 = ? A: 42
+Q: Which is bigger, 87 or 30? A: 87
+Q: Frank is older than Bob. Bob is older than Grace. Who is oldest? A: Frank
+Q: Frank is older than Carol. Carol is older than Heidi. Who is oldest? A: Frank
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: Which is bigger, 51 or 3? A: 51
+Q: 0 + 23 = ? A: 23
+Q: Which is bigger, 31 or 40? A: 40
+Q: Bob is older than Dave. Dave is older than Alice. Who is oldest? A: Bob
+Q: Alice is older than Heidi. Heidi is older than Carol. Who is oldest? A: Alice
+Q: 5 * 4 = ? A: 20
+Q: 12 * 0 = ? A: 0
+Q: Which is bigger, 89 or 86? A: 89
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: Eve is older than Alice. Alice is older than Bob. Who is oldest? A: Eve
+Q: 86 + 73 = ? A: 159
+Q: 84 - 21 = ? A: 63
+Q: Carol is older than Alice. Alice is older than Dave. Who is oldest? A: Carol
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: Count from 1 to 4. A: 1 2 3 4
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: Count from 1 to 2. A: 1 2
+Q: 98 + 48 = ? A: 146
+Q: 96 + 5 = ? A: 101
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: Which is bigger, 98 or 9? A: 98
+Q: Which is bigger, 39 or 70? A: 70
+Q: 52 + 38 = ? A: 90
+Q: Count from 1 to 4. A: 1 2 3 4
+Q: Alice is older than Dave. Dave is older than Frank. Who is oldest? A: Alice
+Q: 11 * 4 = ? A: 44
+Q: Count from 1 to 3. A: 1 2 3
+Q: Which is bigger, 30 or 92? A: 92
+Q: Count from 1 to 6. A: 1 2 3 4 5 6
+Q: Grace is older than Dave. Dave is older than Frank. Who is oldest? A: Grace
+Q: Count from 1 to 3. A: 1 2 3
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: Dave is older than Carol. Carol is older than Grace. Who is oldest? A: Dave
+Q: Which is bigger, 73 or 93? A: 93
+Q: Dave is older than Alice. Alice is older than Heidi. Who is oldest? A: Dave
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: Frank is older than Eve. Eve is older than Carol. Who is oldest? A: Frank
+Q: 35 + 63 = ? A: 98
+Q: Which is bigger, 26 or 60? A: 60
+Q: Which is bigger, 65 or 68? A: 68
+Q: Count from 1 to 16. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Q: 71 - 27 = ? A: 44
+Q: 79 - 75 = ? A: 4
+Q: Frank is older than Heidi. Heidi is older than Dave. Who is oldest? A: Frank
+Q: Frank is older than Heidi. Heidi is older than Eve. Who is oldest? A: Frank
+Q: Which is bigger, 15 or 31? A: 31
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: Which is bigger, 41 or 17? A: 41
+Q: Frank is older than Heidi. Heidi is older than Dave. Who is oldest? A: Frank
+Q: 5 * 10 = ? A: 50
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: Which is bigger, 88 or 50? A: 88
+Q: Dave is older than Carol. Carol is older than Bob. Who is oldest? A: Dave
+Q: Heidi is older than Bob. Bob is older than Grace. Who is oldest? A: Heidi
+Q: 52 + 52 = ? A: 104
+Q: 5 * 3 = ? A: 15
+Q: Which is bigger, 90 or 71? A: 90
+Q: Eve is older than Frank. Frank is older than Heidi. Who is oldest? A: Eve
+Q: Count from 1 to 3. A: 1 2 3
+Q: Which is bigger, 33 or 70? A: 70
+Q: Eve is older than Grace. Grace is older than Alice. Who is oldest? A: Eve
+Q: Bob is older than Frank. Frank is older than Eve. Who is oldest? A: Bob
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: Bob is older than Heidi. Heidi is older than Carol. Who is oldest? A: Bob
+Q: 11 + 97 = ? A: 108
+Q: Dave is older than Eve. Eve is older than Alice. Who is oldest? A: Dave
+Q: Eve is older than Heidi. Heidi is older than Dave. Who is oldest? A: Eve
+Q: 4 * 12 = ? A: 48
+Q: Which is bigger, 23 or 54? A: 54
+Q: Dave is older than Grace. Grace is older than Frank. Who is oldest? A: Dave
+Q: Count from 1 to 18. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Q: 8 * 3 = ? A: 24
+Q: Grace is older than Frank. Frank is older than Carol. Who is oldest? A: Grace
+Q: Alice is older than Bob. Bob is older than Eve. Who is oldest? A: Alice
+Q: Carol is older than Bob. Bob is older than Frank. Who is oldest? A: Carol
+Q: 74 - 8 = ? A: 66
+Q: Which is bigger, 56 or 23? A: 56
+Q: Which is bigger, 11 or 15? A: 15
+Q: 74 - 46 = ? A: 28
+Q: Grace is older than Bob. Bob is older than Alice. Who is oldest? A: Grace
+Q: Which is bigger, 86 or 60? A: 86
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: Dave is older than Eve. Eve is older than Carol. Who is oldest? A: Dave
+Q: 11 * 1 = ? A: 11
+Q: Which is bigger, 61 or 3? A: 61
+Q: Count from 1 to 4. A: 1 2 3 4
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: Which is bigger, 55 or 5? A: 55
+Q: Dave is older than Heidi. Heidi is older than Alice. Who is oldest? A: Dave
+Q: Which is bigger, 99 or 62? A: 99
+Q: Count from 1 to 2. A: 1 2
+Q: 12 + 62 = ? A: 74
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: 52 + 29 = ? A: 81
+Q: 80 + 86 = ? A: 166
+Q: Which is bigger, 58 or 48? A: 58
+Q: Carol is older than Alice. Alice is older than Frank. Who is oldest? A: Carol
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: Which is bigger, 72 or 22? A: 72
+Q: Dave is older than Alice. Alice is older than Carol. Who is oldest? A: Dave
+Q: Frank is older than Carol. Carol is older than Grace. Who is oldest? A: Frank
+Q: Count from 1 to 15. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Q: Which is bigger, 39 or 52? A: 52
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: Heidi is older than Alice. Alice is older than Eve. Who is oldest? A: Heidi
+Q: Which is bigger, 59 or 37? A: 59
+Q: Grace is older than Heidi. Heidi is older than Dave. Who is oldest? A: Grace
+Q: Alice is older than Frank. Frank is older than Bob. Who is oldest? A: Alice
+Q: Count from 1 to 12. A: 1 2 3 4 5 6 7 8 9 10 11 12
+Q: 72 + 14 = ? A: 86
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: Heidi is older than Carol. Carol is older than Bob. Who is oldest? A: Heidi
+Q: Count from 1 to 4. A: 1 2 3 4
+Q: Which is bigger, 17 or 1? A: 17
+Q: Count from 1 to 11. A: 1 2 3 4 5 6 7 8 9 10 11
+Q: Eve is older than Heidi. Heidi is older than Grace. Who is oldest? A: Eve
+Q: Which is bigger, 63 or 24? A: 63
+Q: 29 - 59 = ? A: -30
+Q: Frank is older than Carol. Carol is older than Bob. Who is oldest? A: Frank
+Q: Count from 1 to 6. A: 1 2 3 4 5 6
+Q: Grace is older than Eve. Eve is older than Alice. Who is oldest? A: Grace
+Q: Dave is older than Eve. Eve is older than Bob. Who is oldest? A: Dave
+Q: Bob is older than Grace. Grace is older than Dave. Who is oldest? A: Bob
+Q: 33 + 48 = ? A: 81
+Q: Which is bigger, 96 or 18? A: 96
+Q: Which is bigger, 1 or 6? A: 6
+Q: 51 - 60 = ? A: -9
+Q: 50 + 46 = ? A: 96
+Q: 36 - 57 = ? A: -21
+Q: Count from 1 to 16. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Q: Which is bigger, 12 or 63? A: 63
+Q: Which is bigger, 25 or 81? A: 81
+Q: Heidi is older than Eve. Eve is older than Dave. Who is oldest? A: Heidi
+Q: 60 - 54 = ? A: 6
+Q: 89 - 98 = ? A: -9
+Q: Which is bigger, 11 or 68? A: 68
+Q: Dave is older than Carol. Carol is older than Frank. Who is oldest? A: Dave
+Q: Which is bigger, 32 or 11? A: 32
+Q: Count from 1 to 9. A: 1 2 3 4 5 6 7 8 9
+Q: Which is bigger, 46 or 59? A: 59
+Q: Count from 1 to 4. A: 1 2 3 4
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: Which is bigger, 78 or 74? A: 78
+Q: Which is bigger, 21 or 37? A: 37
+Q: Grace is older than Carol. Carol is older than Dave. Who is oldest? A: Grace
+Q: 1 * 9 = ? A: 9
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: Frank is older than Grace. Grace is older than Alice. Who is oldest? A: Frank
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: Frank is older than Eve. Eve is older than Grace. Who is oldest? A: Frank
+Q: 15 + 55 = ? A: 70
+Q: 46 + 56 = ? A: 102
+Q: Count from 1 to 1. A: 1
+Q: 11 * 5 = ? A: 55
+Q: Grace is older than Dave. Dave is older than Eve. Who is oldest? A: Grace
+Q: Eve is older than Frank. Frank is older than Grace. Who is oldest? A: Eve
+Q: Heidi is older than Carol. Carol is older than Alice. Who is oldest? A: Heidi
+Q: 10 * 3 = ? A: 30
+Q: Alice is older than Grace. Grace is older than Carol. Who is oldest? A: Alice
+Q: 94 + 8 = ? A: 102
+Q: Count from 1 to 1. A: 1
+Q: Alice is older than Grace. Grace is older than Frank. Who is oldest? A: Alice
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: Which is bigger, 65 or 49? A: 65
+Q: Which is bigger, 84 or 17? A: 84
+Q: 2 * 9 = ? A: 18
+Q: Which is bigger, 84 or 46? A: 84
+Q: Count from 1 to 9. A: 1 2 3 4 5 6 7 8 9
+Q: 22 - 15 = ? A: 7
+Q: 6 * 7 = ? A: 42
+Q: Which is bigger, 82 or 73? A: 82
+Q: Carol is older than Frank. Frank is older than Eve. Who is oldest? A: Carol
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: 50 - 19 = ? A: 31
+Q: Eve is older than Dave. Dave is older than Carol. Who is oldest? A: Eve
+Q: Which is bigger, 85 or 61? A: 85
+Q: Dave is older than Bob. Bob is older than Carol. Who is oldest? A: Dave
+Q: Grace is older than Heidi. Heidi is older than Carol. Who is oldest? A: Grace
+Q: Bob is older than Dave. Dave is older than Frank. Who is oldest? A: Bob
+Q: Heidi is older than Frank. Frank is older than Carol. Who is oldest? A: Heidi
+Q: Which is bigger, 65 or 23? A: 65
+Q: Count from 1 to 9. A: 1 2 3 4 5 6 7 8 9
+Q: 26 + 95 = ? A: 121
+Q: Carol is older than Heidi. Heidi is older than Alice. Who is oldest? A: Carol
+Q: Which is bigger, 79 or 36? A: 79
+Q: Which is bigger, 81 or 63? A: 81
+Q: Which is bigger, 55 or 64? A: 64
+Q: Which is bigger, 96 or 9? A: 96
+Q: Alice is older than Bob. Bob is older than Carol. Who is oldest? A: Alice
+Q: 11 - 68 = ? A: -57
+Q: Carol is older than Bob. Bob is older than Frank. Who is oldest? A: Carol
+Q: 2 - 72 = ? A: -70
+Q: Which is bigger, 75 or 39? A: 75
+Q: Dave is older than Carol. Carol is older than Frank. Who is oldest? A: Dave
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: Which is bigger, 67 or 3? A: 67
+Q: Carol is older than Eve. Eve is older than Dave. Who is oldest? A: Carol
+Q: Grace is older than Frank. Frank is older than Alice. Who is oldest? A: Grace
+Q: Which is bigger, 31 or 65? A: 65
+Q: Count from 1 to 16. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: Which is bigger, 8 or 22? A: 22
+Q: Which is bigger, 28 or 85? A: 85
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: Which is bigger, 55 or 26? A: 55
+Q: Count from 1 to 2. A: 1 2
+Q: Which is bigger, 67 or 99? A: 99
+Q: Frank is older than Carol. Carol is older than Bob. Who is oldest? A: Frank
+Q: 10 + 88 = ? A: 98
+Q: Count from 1 to 4. A: 1 2 3 4
+Q: 11 * 0 = ? A: 0
+Q: Bob is older than Eve. Eve is older than Grace. Who is oldest? A: Bob
+Q: Eve is older than Alice. Alice is older than Frank. Who is oldest? A: Eve
+Q: 4 + 66 = ? A: 70
+Q: 62 - 29 = ? A: 33
+Q: Which is bigger, 85 or 51? A: 85
+Q: 49 + 97 = ? A: 146
+Q: Which is bigger, 39 or 68? A: 68
+Q: 52 + 31 = ? A: 83
+Q: Grace is older than Carol. Carol is older than Bob. Who is oldest? A: Grace
+Q: Which is bigger, 14 or 6? A: 14
+Q: 21 - 4 = ? A: 17
+Q: Grace is older than Bob. Bob is older than Dave. Who is oldest? A: Grace
+Q: Which is bigger, 73 or 46? A: 73
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: 56 - 73 = ? A: -17
+Q: 10 * 7 = ? A: 70
+Q: 70 - 13 = ? A: 57
+Q: Which is bigger, 63 or 76? A: 76
+Q: Count from 1 to 16. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Q: Which is bigger, 38 or 1? A: 38
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: Bob is older than Carol. Carol is older than Dave. Who is oldest? A: Bob
+Q: Which is bigger, 55 or 19? A: 55
+Q: Count from 1 to 15. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Q: Which is bigger, 53 or 54? A: 54
+Q: Which is bigger, 14 or 61? A: 61
+Q: 69 - 74 = ? A: -5
+Q: Which is bigger, 3 or 78? A: 78
+Q: Count from 1 to 1. A: 1
+Q: Grace is older than Dave. Dave is older than Bob. Who is oldest? A: Grace
+Q: Eve is older than Bob. Bob is older than Frank. Who is oldest? A: Eve
+Q: 0 * 6 = ? A: 0
+Q: 33 - 11 = ? A: 22
+Q: Which is bigger, 10 or 30? A: 30
+Q: 12 * 7 = ? A: 84
+Q: Count from 1 to 9. A: 1 2 3 4 5 6 7 8 9
+Q: Eve is older than Heidi. Heidi is older than Grace. Who is oldest? A: Eve
+Q: Carol is older than Dave. Dave is older than Bob. Who is oldest? A: Carol
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: 91 - 68 = ? A: 23
+Q: Grace is older than Bob. Bob is older than Carol. Who is oldest? A: Grace
+Q: Which is bigger, 75 or 68? A: 75
+Q: Frank is older than Eve. Eve is older than Bob. Who is oldest? A: Frank
+Q: Which is bigger, 99 or 70? A: 99
+Q: Which is bigger, 24 or 4? A: 24
+Q: Which is bigger, 20 or 80? A: 80
+Q: Which is bigger, 10 or 16? A: 16
+Q: Frank is older than Eve. Eve is older than Heidi. Who is oldest? A: Frank
+Q: Which is bigger, 67 or 23? A: 67
+Q: 79 - 71 = ? A: 8
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: 0 * 3 = ? A: 0
+Q: Which is bigger, 11 or 91? A: 91
+Q: Count from 1 to 2. A: 1 2
+Q: Eve is older than Carol. Carol is older than Dave. Who is oldest? A: Eve
+Q: Heidi is older than Bob. Bob is older than Eve. Who is oldest? A: Heidi
+Q: Grace is older than Heidi. Heidi is older than Eve. Who is oldest? A: Grace
+Q: Which is bigger, 35 or 50? A: 50
+Q: 11 * 7 = ? A: 77
+Q: 36 - 66 = ? A: -30
+Q: Alice is older than Eve. Eve is older than Heidi. Who is oldest? A: Alice
+Q: Count from 1 to 1. A: 1
+Q: Eve is older than Dave. Dave is older than Carol. Who is oldest? A: Eve
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: 0 * 8 = ? A: 0
+Q: Frank is older than Eve. Eve is older than Alice. Who is oldest? A: Frank
+Q: 22 - 69 = ? A: -47
+Q: Bob is older than Eve. Eve is older than Dave. Who is oldest? A: Bob
+Q: 8 * 10 = ? A: 80
+Q: Carol is older than Grace. Grace is older than Bob. Who is oldest? A: Carol
+Q: Which is bigger, 91 or 16? A: 91
+Q: 15 - 89 = ? A: -74
+Q: Carol is older than Dave. Dave is older than Frank. Who is oldest? A: Carol
+Q: Which is bigger, 69 or 40? A: 69
+Q: Bob is older than Eve. Eve is older than Frank. Who is oldest? A: Bob
+Q: 76 - 24 = ? A: 52
+Q: Dave is older than Grace. Grace is older than Carol. Who is oldest? A: Dave
+Q: Eve is older than Alice. Alice is older than Frank. Who is oldest? A: Eve
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: Count from 1 to 18. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: 0 * 2 = ? A: 0
+Q: Which is bigger, 33 or 18? A: 33
+Q: Count from 1 to 3. A: 1 2 3
+Q: Heidi is older than Eve. Eve is older than Carol. Who is oldest? A: Heidi
+Q: 56 + 99 = ? A: 155
+Q: Which is bigger, 32 or 88? A: 88
+Q: 51 - 61 = ? A: -10
+Q: Which is bigger, 94 or 57? A: 94
+Q: Which is bigger, 31 or 90? A: 90
+Q: Which is bigger, 12 or 25? A: 25
+Q: Carol is older than Grace. Grace is older than Alice. Who is oldest? A: Carol
+Q: 88 - 61 = ? A: 27
+Q: Bob is older than Dave. Dave is older than Carol. Who is oldest? A: Bob
+Q: Which is bigger, 80 or 16? A: 80
+Q: 6 * 9 = ? A: 54
+Q: Which is bigger, 57 or 27? A: 57
+Q: Carol is older than Dave. Dave is older than Eve. Who is oldest? A: Carol
+Q: Grace is older than Eve. Eve is older than Bob. Who is oldest? A: Grace
+Q: Heidi is older than Grace. Grace is older than Bob. Who is oldest? A: Heidi
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: 6 * 6 = ? A: 36
+Q: Heidi is older than Grace. Grace is older than Alice. Who is oldest? A: Heidi
+Q: Count from 1 to 18. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Q: Which is bigger, 44 or 95? A: 95
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: Which is bigger, 63 or 16? A: 63
+Q: Count from 1 to 4. A: 1 2 3 4
+Q: Frank is older than Grace. Grace is older than Bob. Who is oldest? A: Frank
+Q: Count from 1 to 18. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Q: 21 - 81 = ? A: -60
+Q: 10 * 10 = ? A: 100
+Q: Count from 1 to 15. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: 60 - 58 = ? A: 2
+Q: Bob is older than Alice. Alice is older than Grace. Who is oldest? A: Bob
+Q: 81 - 89 = ? A: -8
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: 9 * 8 = ? A: 72
+Q: 9 * 8 = ? A: 72
+Q: Count from 1 to 16. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Q: 11 * 4 = ? A: 44
+Q: Which is bigger, 98 or 3? A: 98
+Q: Alice is older than Grace. Grace is older than Dave. Who is oldest? A: Alice
+Q: Bob is older than Alice. Alice is older than Grace. Who is oldest? A: Bob
+Q: 74 - 94 = ? A: -20
+Q: 98 - 52 = ? A: 46
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: Which is bigger, 81 or 35? A: 81
+Q: Which is bigger, 73 or 19? A: 73
+Q: Bob is older than Carol. Carol is older than Grace. Who is oldest? A: Bob
+Q: Bob is older than Dave. Dave is older than Heidi. Who is oldest? A: Bob
+Q: Which is bigger, 18 or 31? A: 31
+Q: Which is bigger, 58 or 59? A: 59
+Q: Count from 1 to 3. A: 1 2 3
+Q: Which is bigger, 28 or 25? A: 28
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: Frank is older than Alice. Alice is older than Dave. Who is oldest? A: Frank
+Q: Frank is older than Alice. Alice is older than Grace. Who is oldest? A: Frank
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: Count from 1 to 4. A: 1 2 3 4
+Q: Which is bigger, 74 or 5? A: 74
+Q: Which is bigger, 73 or 15? A: 73
+Q: Bob is older than Grace. Grace is older than Heidi. Who is oldest? A: Bob
+Q: Count from 1 to 1. A: 1
+Q: Carol is older than Heidi. Heidi is older than Eve. Who is oldest? A: Carol
+Q: Dave is older than Alice. Alice is older than Eve. Who is oldest? A: Dave
+Q: Heidi is older than Carol. Carol is older than Dave. Who is oldest? A: Heidi
+Q: Count from 1 to 2. A: 1 2
+Q: 91 - 5 = ? A: 86
+Q: Which is bigger, 65 or 72? A: 72
+Q: Which is bigger, 62 or 80? A: 80
+Q: Which is bigger, 61 or 33? A: 61
+Q: Which is bigger, 39 or 64? A: 64
+Q: Which is bigger, 3 or 64? A: 64
+Q: Frank is older than Eve. Eve is older than Grace. Who is oldest? A: Frank
+Q: Which is bigger, 70 or 71? A: 71
+Q: 1 - 33 = ? A: -32
+Q: 33 - 44 = ? A: -11
+Q: Frank is older than Carol. Carol is older than Dave. Who is oldest? A: Frank
+Q: Count from 1 to 18. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Q: 36 + 72 = ? A: 108
+Q: 44 - 64 = ? A: -20
+Q: 18 - 69 = ? A: -51
+Q: Dave is older than Eve. Eve is older than Grace. Who is oldest? A: Dave
+Q: Count from 1 to 1. A: 1
+Q: 4 * 3 = ? A: 12
+Q: Which is bigger, 30 or 15? A: 30
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: Heidi is older than Alice. Alice is older than Grace. Who is oldest? A: Heidi
+Q: 3 * 0 = ? A: 0
+Q: 15 + 73 = ? A: 88
+Q: 95 - 92 = ? A: 3
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: Which is bigger, 9 or 81? A: 81
+Q: Frank is older than Dave. Dave is older than Heidi. Who is oldest? A: Frank
+Q: Which is bigger, 87 or 68? A: 87
+Q: Which is bigger, 2 or 27? A: 27
+Q: Which is bigger, 84 or 35? A: 84
+Q: 57 + 56 = ? A: 113
+Q: 64 + 41 = ? A: 105
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: 6 * 12 = ? A: 72
+Q: 73 + 25 = ? A: 98
+Q: 5 - 85 = ? A: -80
+Q: 2 + 74 = ? A: 76
+Q: Count from 1 to 4. A: 1 2 3 4
+Q: Heidi is older than Eve. Eve is older than Carol. Who is oldest? A: Heidi
+Q: Frank is older than Grace. Grace is older than Eve. Who is oldest? A: Frank
+Q: Which is bigger, 65 or 94? A: 94
+Q: 73 - 28 = ? A: 45
+Q: Grace is older than Frank. Frank is older than Eve. Who is oldest? A: Grace
+Q: Count from 1 to 11. A: 1 2 3 4 5 6 7 8 9 10 11
+Q: Bob is older than Grace. Grace is older than Frank. Who is oldest? A: Bob
+Q: Carol is older than Alice. Alice is older than Bob. Who is oldest? A: Carol
+Q: Which is bigger, 46 or 39? A: 46
+Q: Carol is older than Bob. Bob is older than Heidi. Who is oldest? A: Carol
+Q: 22 - 77 = ? A: -55
+Q: 10 + 79 = ? A: 89
+Q: Which is bigger, 85 or 12? A: 85
+Q: 58 - 3 = ? A: 55
+Q: Alice is older than Grace. Grace is older than Dave. Who is oldest? A: Alice
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: Count from 1 to 16. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Q: 72 - 60 = ? A: 12
+Q: Count from 1 to 18. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: Which is bigger, 9 or 82? A: 82
+Q: Heidi is older than Grace. Grace is older than Dave. Who is oldest? A: Heidi
+Q: 3 * 1 = ? A: 3
+Q: Which is bigger, 50 or 28? A: 50
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: Which is bigger, 35 or 50? A: 50
+Q: Which is bigger, 50 or 98? A: 98
+Q: 10 * 11 = ? A: 110
+Q: Which is bigger, 87 or 44? A: 87
+Q: Count from 1 to 11. A: 1 2 3 4 5 6 7 8 9 10 11
+Q: Count from 1 to 1. A: 1
+Q: Which is bigger, 54 or 97? A: 97
+Q: Which is bigger, 64 or 56? A: 64
+Q: Dave is older than Eve. Eve is older than Bob. Who is oldest? A: Dave
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: Which is bigger, 84 or 57? A: 84
+Q: 24 + 42 = ? A: 66
+Q: Which is bigger, 19 or 54? A: 54
+Q: Which is bigger, 46 or 98? A: 98
+Q: Count from 1 to 2. A: 1 2
+Q: Which is bigger, 35 or 52? A: 52
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: 39 + 2 = ? A: 41
+Q: Grace is older than Heidi. Heidi is older than Bob. Who is oldest? A: Grace
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: Count from 1 to 12. A: 1 2 3 4 5 6 7 8 9 10 11 12
+Q: 4 * 0 = ? A: 0
+Q: Which is bigger, 55 or 2? A: 55
+Q: 67 + 5 = ? A: 72
+Q: Count from 1 to 18. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Q: Dave is older than Eve. Eve is older than Carol. Who is oldest? A: Dave
+Q: Count from 1 to 6. A: 1 2 3 4 5 6
+Q: Grace is older than Dave. Dave is older than Bob. Who is oldest? A: Grace
+Q: Which is bigger, 42 or 40? A: 42
+Q: 8 * 1 = ? A: 8
+Q: 50 - 71 = ? A: -21
+Q: Alice is older than Bob. Bob is older than Heidi. Who is oldest? A: Alice
+Q: Frank is older than Dave. Dave is older than Eve. Who is oldest? A: Frank
+Q: Which is bigger, 74 or 88? A: 88
+Q: Carol is older than Eve. Eve is older than Dave. Who is oldest? A: Carol
+Q: Alice is older than Grace. Grace is older than Heidi. Who is oldest? A: Alice
+Q: 6 - 17 = ? A: -11
+Q: 76 - 43 = ? A: 33
+Q: 40 + 37 = ? A: 77
+Q: Which is bigger, 24 or 7? A: 24
+Q: Grace is older than Heidi. Heidi is older than Alice. Who is oldest? A: Grace
+Q: 43 - 42 = ? A: 1
+Q: Heidi is older than Dave. Dave is older than Frank. Who is oldest? A: Heidi
+Q: Which is bigger, 9 or 35? A: 35
+Q: 9 * 12 = ? A: 108
+Q: 6 * 0 = ? A: 0
+Q: Count from 1 to 4. A: 1 2 3 4
+Q: Which is bigger, 86 or 50? A: 86
+Q: Eve is older than Alice. Alice is older than Bob. Who is oldest? A: Eve
+Q: Which is bigger, 6 or 59? A: 59
+Q: Which is bigger, 56 or 1? A: 56
+Q: Count from 1 to 1. A: 1
+Q: 98 + 72 = ? A: 170
+Q: Bob is older than Alice. Alice is older than Dave. Who is oldest? A: Bob
+Q: Which is bigger, 56 or 45? A: 56
+Q: 0 * 11 = ? A: 0
+Q: Count from 1 to 3. A: 1 2 3
+Q: Count from 1 to 2. A: 1 2
+Q: Frank is older than Bob. Bob is older than Dave. Who is oldest? A: Frank
+Q: Count from 1 to 12. A: 1 2 3 4 5 6 7 8 9 10 11 12
+Q: 14 + 30 = ? A: 44
+Q: Alice is older than Bob. Bob is older than Carol. Who is oldest? A: Alice
+Q: 72 - 72 = ? A: 0
+Q: 45 + 36 = ? A: 81
+Q: Alice is older than Heidi. Heidi is older than Grace. Who is oldest? A: Alice
+Q: Which is bigger, 79 or 84? A: 84
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: 98 - 40 = ? A: 58
+Q: Which is bigger, 7 or 16? A: 16
+Q: Which is bigger, 22 or 64? A: 64
+Q: Count from 1 to 11. A: 1 2 3 4 5 6 7 8 9 10 11
+Q: 45 + 0 = ? A: 45
+Q: Grace is older than Alice. Alice is older than Frank. Who is oldest? A: Grace
+Q: 11 + 62 = ? A: 73
+Q: 9 * 9 = ? A: 81
+Q: Eve is older than Grace. Grace is older than Dave. Who is oldest? A: Eve
+Q: 1 * 12 = ? A: 12
+Q: Which is bigger, 15 or 11? A: 15
+Q: 92 - 47 = ? A: 45
+Q: 30 + 49 = ? A: 79
+Q: 24 - 61 = ? A: -37
+Q: 38 - 12 = ? A: 26
+Q: Which is bigger, 55 or 96? A: 96
+Q: Carol is older than Frank. Frank is older than Heidi. Who is oldest? A: Carol
+Q: Grace is older than Dave. Dave is older than Heidi. Who is oldest? A: Grace
+Q: Which is bigger, 80 or 93? A: 93
+Q: 24 - 95 = ? A: -71
+Q: Which is bigger, 68 or 2? A: 68
+Q: Which is bigger, 80 or 4? A: 80
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: Count from 1 to 12. A: 1 2 3 4 5 6 7 8 9 10 11 12
+Q: Which is bigger, 92 or 47? A: 92
+Q: Eve is older than Grace. Grace is older than Dave. Who is oldest? A: Eve
+Q: 12 * 7 = ? A: 84
+Q: Heidi is older than Carol. Carol is older than Eve. Who is oldest? A: Heidi
+Q: Which is bigger, 19 or 4? A: 19
+Q: Which is bigger, 99 or 19? A: 99
+Q: Alice is older than Bob. Bob is older than Grace. Who is oldest? A: Alice
+Q: Count from 1 to 3. A: 1 2 3
+Q: Which is bigger, 72 or 14? A: 72
+Q: Frank is older than Dave. Dave is older than Carol. Who is oldest? A: Frank
+Q: Bob is older than Heidi. Heidi is older than Dave. Who is oldest? A: Bob
+Q: Grace is older than Carol. Carol is older than Dave. Who is oldest? A: Grace
+Q: Count from 1 to 11. A: 1 2 3 4 5 6 7 8 9 10 11
+Q: Count from 1 to 15. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Q: Which is bigger, 65 or 13? A: 65
+Q: 44 + 10 = ? A: 54
+Q: 59 - 42 = ? A: 17
+Q: 55 - 76 = ? A: -21
+Q: 69 + 31 = ? A: 100
+Q: Count from 1 to 12. A: 1 2 3 4 5 6 7 8 9 10 11 12
+Q: Count from 1 to 6. A: 1 2 3 4 5 6
+Q: Count from 1 to 16. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Q: Alice is older than Bob. Bob is older than Frank. Who is oldest? A: Alice
+Q: 64 - 92 = ? A: -28
+Q: 78 - 69 = ? A: 9
+Q: Which is bigger, 51 or 15? A: 51
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: Grace is older than Alice. Alice is older than Eve. Who is oldest? A: Grace
+Q: Grace is older than Frank. Frank is older than Carol. Who is oldest? A: Grace
+Q: Heidi is older than Bob. Bob is older than Carol. Who is oldest? A: Heidi
+Q: Which is bigger, 73 or 14? A: 73
+Q: Alice is older than Eve. Eve is older than Frank. Who is oldest? A: Alice
+Q: Bob is older than Grace. Grace is older than Carol. Who is oldest? A: Bob
+Q: Count from 1 to 7. A: 1 2 3 4 5 6 7
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: 1 * 4 = ? A: 4
+Q: Which is bigger, 18 or 46? A: 46
+Q: 79 + 90 = ? A: 169
+Q: Which is bigger, 85 or 97? A: 97
+Q: Count from 1 to 12. A: 1 2 3 4 5 6 7 8 9 10 11 12
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: Which is bigger, 17 or 7? A: 17
+Q: Carol is older than Bob. Bob is older than Grace. Who is oldest? A: Carol
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: 3 - 99 = ? A: -96
+Q: Which is bigger, 29 or 32? A: 32
+Q: Bob is older than Frank. Frank is older than Alice. Who is oldest? A: Bob
+Q: Grace is older than Carol. Carol is older than Frank. Who is oldest? A: Grace
+Q: Which is bigger, 85 or 26? A: 85
+Q: Count from 1 to 3. A: 1 2 3
+Q: Alice is older than Frank. Frank is older than Eve. Who is oldest? A: Alice
+Q: Which is bigger, 21 or 3? A: 21
+Q: Which is bigger, 52 or 80? A: 80
+Q: Frank is older than Grace. Grace is older than Eve. Who is oldest? A: Frank
+Q: Which is bigger, 27 or 78? A: 78
+Q: Heidi is older than Eve. Eve is older than Frank. Who is oldest? A: Heidi
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: 76 + 35 = ? A: 111
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: Which is bigger, 97 or 2? A: 97
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: Grace is older than Heidi. Heidi is older than Eve. Who is oldest? A: Grace
+Q: Which is bigger, 9 or 99? A: 99
+Q: 87 + 79 = ? A: 166
+Q: Count from 1 to 9. A: 1 2 3 4 5 6 7 8 9
+Q: 5 * 9 = ? A: 45
+Q: Which is bigger, 81 or 32? A: 81
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: Count from 1 to 1. A: 1
+Q: 70 + 50 = ? A: 120
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: Heidi is older than Carol. Carol is older than Eve. Who is oldest? A: Heidi
+Q: 30 + 63 = ? A: 93
+Q: Which is bigger, 92 or 90? A: 92
+Q: 5 - 91 = ? A: -86
+Q: Count from 1 to 6. A: 1 2 3 4 5 6
+Q: Eve is older than Bob. Bob is older than Dave. Who is oldest? A: Eve
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: Which is bigger, 71 or 55? A: 71
+Q: Which is bigger, 83 or 91? A: 91
+Q: 55 - 92 = ? A: -37
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: 36 - 51 = ? A: -15
+Q: Eve is older than Carol. Carol is older than Bob. Who is oldest? A: Eve
+Q: Which is bigger, 54 or 40? A: 54
+Q: Count from 1 to 12. A: 1 2 3 4 5 6 7 8 9 10 11 12
+Q: Count from 1 to 18. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Q: Which is bigger, 75 or 80? A: 80
+Q: 85 - 80 = ? A: 5
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: Heidi is older than Grace. Grace is older than Carol. Who is oldest? A: Heidi
+Q: Alice is older than Eve. Eve is older than Carol. Who is oldest? A: Alice
+Q: 86 - 50 = ? A: 36
+Q: Bob is older than Eve. Eve is older than Alice. Who is oldest? A: Bob
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: Which is bigger, 18 or 74? A: 74
+Q: Frank is older than Grace. Grace is older than Heidi. Who is oldest? A: Frank
+Q: Which is bigger, 1 or 64? A: 64
+Q: Dave is older than Grace. Grace is older than Bob. Who is oldest? A: Dave
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: Carol is older than Heidi. Heidi is older than Dave. Who is oldest? A: Carol
+Q: 29 + 75 = ? A: 104
+Q: Which is bigger, 75 or 72? A: 75
+Q: 55 - 94 = ? A: -39
+Q: Count from 1 to 3. A: 1 2 3
+Q: 74 - 65 = ? A: 9
+Q: 48 + 63 = ? A: 111
+Q: Which is bigger, 30 or 53? A: 53
+Q: Which is bigger, 32 or 85? A: 85
+Q: Which is bigger, 25 or 91? A: 91
+Q: Count from 1 to 12. A: 1 2 3 4 5 6 7 8 9 10 11 12
+Q: Count from 1 to 2. A: 1 2
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: Alice is older than Bob. Bob is older than Eve. Who is oldest? A: Alice
+Q: Dave is older than Alice. Alice is older than Frank. Who is oldest? A: Dave
+Q: 1 * 12 = ? A: 12
+Q: Which is bigger, 73 or 17? A: 73
+Q: 80 + 36 = ? A: 116
+Q: Dave is older than Bob. Bob is older than Heidi. Who is oldest? A: Dave
+Q: Heidi is older than Grace. Grace is older than Eve. Who is oldest? A: Heidi
+Q: Frank is older than Carol. Carol is older than Alice. Who is oldest? A: Frank
+Q: 98 - 77 = ? A: 21
+Q: 48 + 52 = ? A: 100
+Q: 5 * 4 = ? A: 20
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: 10 * 2 = ? A: 20
+Q: Dave is older than Bob. Bob is older than Frank. Who is oldest? A: Dave
+Q: 60 - 52 = ? A: 8
+Q: Count from 1 to 12. A: 1 2 3 4 5 6 7 8 9 10 11 12
+Q: Dave is older than Bob. Bob is older than Frank. Who is oldest? A: Dave
+Q: Which is bigger, 22 or 94? A: 94
+Q: Which is bigger, 39 or 71? A: 71
+Q: Eve is older than Grace. Grace is older than Dave. Who is oldest? A: Eve
+Q: Which is bigger, 53 or 27? A: 53
+Q: Which is bigger, 62 or 90? A: 90
+Q: Grace is older than Dave. Dave is older than Heidi. Who is oldest? A: Grace
+Q: Bob is older than Heidi. Heidi is older than Alice. Who is oldest? A: Bob
+Q: Carol is older than Heidi. Heidi is older than Eve. Who is oldest? A: Carol
+Q: Count from 1 to 3. A: 1 2 3
+Q: Which is bigger, 96 or 57? A: 96
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: Which is bigger, 83 or 65? A: 83
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: Bob is older than Alice. Alice is older than Heidi. Who is oldest? A: Bob
+Q: Dave is older than Carol. Carol is older than Grace. Who is oldest? A: Dave
+Q: Which is bigger, 90 or 10? A: 90
+Q: Eve is older than Alice. Alice is older than Frank. Who is oldest? A: Eve
+Q: 14 - 29 = ? A: -15
+Q: Which is bigger, 46 or 50? A: 50
+Q: Which is bigger, 78 or 16? A: 78
+Q: Which is bigger, 56 or 52? A: 56
+Q: Which is bigger, 89 or 26? A: 89
+Q: Carol is older than Heidi. Heidi is older than Alice. Who is oldest? A: Carol
+Q: 5 * 7 = ? A: 35
+Q: Which is bigger, 55 or 47? A: 55
+Q: Which is bigger, 81 or 79? A: 81
+Q: Which is bigger, 58 or 67? A: 67
+Q: Which is bigger, 11 or 57? A: 57
+Q: Which is bigger, 61 or 68? A: 68
+Q: Which is bigger, 47 or 59? A: 59
+Q: Frank is older than Heidi. Heidi is older than Alice. Who is oldest? A: Frank
+Q: Count from 1 to 3. A: 1 2 3
+Q: Count from 1 to 2. A: 1 2
+Q: 12 * 0 = ? A: 0
+Q: Count from 1 to 18. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Q: Count from 1 to 4. A: 1 2 3 4
+Q: Dave is older than Eve. Eve is older than Carol. Who is oldest? A: Dave
+Q: Heidi is older than Grace. Grace is older than Carol. Who is oldest? A: Heidi
+Q: Dave is older than Carol. Carol is older than Heidi. Who is oldest? A: Dave
+Q: Alice is older than Eve. Eve is older than Dave. Who is oldest? A: Alice
+Q: Count from 1 to 18. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Q: Which is bigger, 79 or 77? A: 79
+Q: Which is bigger, 13 or 1? A: 13
+Q: Count from 1 to 16. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Q: Heidi is older than Bob. Bob is older than Carol. Who is oldest? A: Heidi
+Q: Count from 1 to 12. A: 1 2 3 4 5 6 7 8 9 10 11 12
+Q: Count from 1 to 19. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Q: Eve is older than Grace. Grace is older than Bob. Who is oldest? A: Eve
+Q: 6 * 12 = ? A: 72
+Q: 39 + 65 = ? A: 104
+Q: 74 - 65 = ? A: 9
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: Count from 1 to 10. A: 1 2 3 4 5 6 7 8 9 10
+Q: Which is bigger, 46 or 35? A: 46
+Q: Which is bigger, 26 or 8? A: 26
+Q: Which is bigger, 74 or 18? A: 74
+Q: Which is bigger, 94 or 22? A: 94
+Q: Alice is older than Frank. Frank is older than Grace. Who is oldest? A: Alice
+Q: 38 - 73 = ? A: -35
+Q: Which is bigger, 38 or 9? A: 38
+Q: Which is bigger, 57 or 54? A: 57
+Q: Bob is older than Eve. Eve is older than Grace. Who is oldest? A: Bob
+Q: Grace is older than Frank. Frank is older than Dave. Who is oldest? A: Grace
+Q: Which is bigger, 30 or 66? A: 66
+Q: Grace is older than Carol. Carol is older than Eve. Who is oldest? A: Grace
+Q: Count from 1 to 13. A: 1 2 3 4 5 6 7 8 9 10 11 12 13
+Q: Alice is older than Carol. Carol is older than Dave. Who is oldest? A: Alice
+Q: Which is bigger, 88 or 81? A: 88
+Q: Which is bigger, 37 or 82? A: 82
+Q: Count from 1 to 3. A: 1 2 3
+Q: Which is bigger, 71 or 42? A: 71
+Q: Which is bigger, 25 or 28? A: 28
+Q: 0 * 0 = ? A: 0
+Q: 39 + 18 = ? A: 57
+Q: 85 - 73 = ? A: 12
+Q: Count from 1 to 3. A: 1 2 3
+Q: Bob is older than Carol. Carol is older than Alice. Who is oldest? A: Bob
+Q: Which is bigger, 70 or 88? A: 88
+Q: Which is bigger, 23 or 40? A: 40
+Q: 80 + 28 = ? A: 108
+Q: 1 * 10 = ? A: 10
+Q: Which is bigger, 73 or 51? A: 73
+Q: Which is bigger, 46 or 83? A: 83
+Q: 58 - 37 = ? A: 21
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: Alice is older than Dave. Dave is older than Grace. Who is oldest? A: Alice
+Q: Which is bigger, 71 or 24? A: 71
+Q: 5 * 2 = ? A: 10
+Q: Heidi is older than Alice. Alice is older than Eve. Who is oldest? A: Heidi
+Q: Which is bigger, 36 or 69? A: 69
+Q: Count from 1 to 12. A: 1 2 3 4 5 6 7 8 9 10 11 12
+Q: Count from 1 to 14. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Q: Which is bigger, 27 or 10? A: 27
+Q: 15 - 70 = ? A: -55
+Q: 1 * 1 = ? A: 1
+Q: Dave is older than Alice. Alice is older than Frank. Who is oldest? A: Dave
+Q: Count from 1 to 2. A: 1 2
+Q: 12 + 56 = ? A: 68
+Q: Carol is older than Frank. Frank is older than Alice. Who is oldest? A: Carol
+Q: Which is bigger, 40 or 94? A: 94
+Q: 67 - 99 = ? A: -32
+Q: Count from 1 to 2. A: 1 2
+Q: Alice is older than Grace. Grace is older than Frank. Who is oldest? A: Alice
+Q: Grace is older than Frank. Frank is older than Dave. Who is oldest? A: Grace
+Q: 77 - 52 = ? A: 25
+Q: Which is bigger, 18 or 95? A: 95
+Q: Count from 1 to 20. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Q: 27 - 48 = ? A: -21
+Q: 6 * 1 = ? A: 6
+Q: Which is bigger, 50 or 53? A: 53
+Q: Heidi is older than Eve. Eve is older than Bob. Who is oldest? A: Heidi
+Q: Count from 1 to 4. A: 1 2 3 4
+Q: Which is bigger, 31 or 28? A: 31
+Q: 8 * 8 = ? A: 64
+Q: Which is bigger, 83 or 27? A: 83
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: 62 + 54 = ? A: 116
+Q: Which is bigger, 44 or 72? A: 72
+Q: Bob is older than Frank. Frank is older than Alice. Who is oldest? A: Bob
+Q: Which is bigger, 78 or 43? A: 78
+Q: Frank is older than Carol. Carol is older than Bob. Who is oldest? A: Frank
+Q: Which is bigger, 71 or 51? A: 71
+Q: Which is bigger, 77 or 25? A: 77
+Q: Eve is older than Heidi. Heidi is older than Bob. Who is oldest? A: Eve
+Q: Which is bigger, 37 or 31? A: 37
+Q: 92 + 0 = ? A: 92
+Q: Dave is older than Heidi. Heidi is older than Eve. Who is oldest? A: Dave
+Q: Which is bigger, 46 or 82? A: 82
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: Alice is older than Carol. Carol is older than Frank. Who is oldest? A: Alice
+Q: Count from 1 to 16. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Q: Dave is older than Heidi. Heidi is older than Eve. Who is oldest? A: Dave
+Q: Count from 1 to 17. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+Q: Which is bigger, 39 or 64? A: 64
+Q: Grace is older than Dave. Dave is older than Frank. Who is oldest? A: Grace
+Q: 97 + 5 = ? A: 102
+Q: Count from 1 to 1. A: 1
+Q: Count from 1 to 18. A: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+Q: 12 * 11 = ? A: 132
+Q: Alice is older than Carol. Carol is older than Dave. Who is oldest? A: Alice
+Q: Count from 1 to 1. A: 1
+Q: 57 + 16 = ? A: 73
+Q: 1 + 5 = ? A: 6
+Q: 11 * 0 = ? A: 0
+Q: 7 * 0 = ? A: 0
+Q: Which is bigger, 15 or 23? A: 23
+Q: Heidi is older than Eve. Eve is older than Grace. Who is oldest? A: Heidi
+Q: Which is bigger, 16 or 89? A: 89
+Q: 54 - 44 = ? A: 10
+Q: 7 * 8 = ? A: 56
+Q: Which is bigger, 92 or 50? A: 92
+Q: Count from 1 to 11. A: 1 2 3 4 5 6 7 8 9 10 11
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: Count from 1 to 5. A: 1 2 3 4 5
+Q: Heidi is older than Carol. Carol is older than Eve. Who is oldest? A: Heidi
+Q: 2 * 3 = ? A: 6
+Q: Which is bigger, 28 or 23? A: 28
+Q: Which is bigger, 99 or 17? A: 99
+Q: 2 - 53 = ? A: -51
+Q: Which is bigger, 2 or 63? A: 63
+Q: 51 - 15 = ? A: 36
+Q: Which is bigger, 94 or 47? A: 94
+Q: Grace is older than Dave. Dave is older than Carol. Who is oldest? A: Grace
+Q: Count from 1 to 6. A: 1 2 3 4 5 6
+Q: Which is bigger, 89 or 85? A: 89
+Q: Which is bigger, 46 or 83? A: 83
+Q: Count from 1 to 3. A: 1 2 3
+Q: Frank is older than Dave. Dave is older than Carol. Who is oldest? A: Frank
+Q: Count from 1 to 12. A: 1 2 3 4 5 6 7 8 9 10 11 12
+Q: Which is bigger, 25 or 52? A: 52
+Q: Which is bigger, 5 or 28? A: 28
+Q: Eve is older than Frank. Frank is older than Heidi. Who is oldest? A: Eve
+Q: Heidi is older than Carol. Carol is older than Eve. Who is oldest? A: Heidi
+Q: 12 * 2 = ? A: 24
+Q: Which is bigger, 66 or 99? A: 99
+Q: Which is bigger, 1 or 64? A: 64
+Q: Frank is older than Grace. Grace is older than Heidi. Who is oldest? A: Frank
+Q: Count from 1 to 1. A: 1
+Q: Count from 1 to 8. A: 1 2 3 4 5 6 7 8
+Q: Eve is older than Grace. Grace is older than Carol. Who is oldest? A: Eve
+Q: Grace is older than Dave. Dave is older than Bob. Who is oldest? A: Grace
+Q: 15 - 57 = ? A: -42
+Q: Grace is older than Heidi. Heidi is older than Alice. Who is oldest? A: Grace
+Q: Which is bigger, 31 or 22? A: 31
+Q: 75 + 3 = ? A: 78
+Q: Which is bigger, 4 or 94? A: 94
+Q: 69 - 8 = ? A: 61
+Q: Eve is older than Carol. Carol is older than Frank. Who is oldest? A: Eve
+Q: Carol is older than Eve. Eve is older than Frank. Who is oldest? A: Carol
+Q: Which is bigger, 57 or 32? A: 57
+Q: Which is bigger, 7 or 6? A: 7
+Q: 4 * 3 = ? A: 12
+Q: Count from 1 to 2. A: 1 2
